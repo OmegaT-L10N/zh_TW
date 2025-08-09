@@ -1,0 +1,99 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+segment	片段
+History Completion	歷史完成
+History Prediction	歷史預測
+term	詞彙	詞彙表中的條目
+Glossary	詞彙表
+shortcut	縮略詞	在autotext功能中出現，可以輸入縮略詞，自動補全單詞。比如輸入ad.補全為advertisement
+shortcut	快捷方式	快捷鍵相關處使用。
+shortcut	快捷鍵
+Preferences	偏好設定
+Change	修改
+domain	領域	查詢TaaS術語時可以選擇特定的領域
+API Key	API 金鑰	專業名詞就不翻譯了
+spreadsheet	電子試算表
+Drag and drop	拖放
+Auto-Populated	自動填入
+Note	備註
+comment	註釋
+pre-configured	預設定
+auto-complete	自動完成
+Context Menu	右鍵選單
+Delimiter	分隔符
+Shortcut	快捷鍵
+Non-breaking space	不換行空格	簡稱NBSP
+tarball	tarball	一種壓縮檔案格式，直接用英文就可以了
+DeepL	DeepL	專有名詞
+uncheck	取消勾選	一般搭配box，取消勾選某中選框
+repository	儲存庫
+Stripper	脫殼	電腦軟體裡一段專門負責保護軟體不被非法修改或反編譯的程式。
+regular expression	正則表示式
+Editor	編輯器
+pane	窗格
+Whitespace	空白字元	包括各種顯示為「空白」的字元，比如空格、tab(\t)、不換行空格（nbsp），等等。
+tokenizer	分詞器
+fuzzy	模糊
+OmegaT	OmegaT
+library	函式庫
+project	專案
+GUI	圖形介面	完整翻譯應當是「圖形使用者介面」，使用習慣中文。
+URL	URL
+team	團隊	和git/svn專案有關時。
+user group	使用者群組
+Lead developer	首席開發人員
+Bug	Bug	特定名詞無特別好的中譯乾脆不翻譯，注意大小寫。
+feature request	功能建議
+Tracking system	追蹤系統
+social network	社群網路
+Instant Start Guide	快速入門指南
+HOWTO	指南
+Howto	指南
+Web Start	Web Start	java的專有名詞，不翻譯。
+Open Document Format	OpenDocument 格式	統一專有名詞的呈現。
+leading	開頭
+trailing	末尾
+LanguageTools	LanguageTool	軟體名稱，後面多了s應當是筆誤？
+space	空格	針對字元場景時。
+BiDi	雙向	即 bidirectional 的縮寫。
+folder	資料夾	即檔案系統中的目錄。
+style	文體	針對文字方面的，常與grammer並列。
+default	預設	他處亦有翻譯為「缺省」的，本專案中統一使用更常見的「預設」
+login	登入	注意不要寫成「登陸」！！
+introduction	簡介	用於文件目錄/標題中時，統一翻譯
+translation memory	翻譯記憶庫	在「對TM的使用」的上下文場景下，有時可以簡稱為「翻譯記憶」。
+Internet	網際網路
+local access network	區域網路	即LAN
+local network	區域網路	即local access network
+Stemming	詞幹分析
+requests for enhancements	改進建議
+dictionary	辭典
+Priority glossary	重點詞彙表
+regex	正則表示式
+Miscellanea	雜記
+bold	粗體	作為動詞則為「加粗」。統一使用「粗體」而非「黑體」
+validator	驗證器	統一使用，避免使用 校驗器 檢驗器 等。
+Open XML	Open XML	指 Microsoft Office2013開始的 Open XML 格式（.docx等），專有名詞，維持原樣。
+Segmentation	分割	建議統一
+translation memory	翻譯記憶
+Segment	片段
+Delimitation	界定	發現有這種譯法……先新增上吧。
+segmentation	分割
+Microsoft	Microsoft	MS官方網站中各處都是使用原文而不用微軟，與其維持一致。
+TransTips	翻譯提示
+alternative translation	多重譯文
+Glossary Entry	詞條
+shortcut	簡寫	用於 tag shortcut 這個上下文中，指的是OmegaT進行標籤保護時自動將諸如<item>變成灰色的<i0>這樣的行為，後者即為tag shortcut
+Translator	譯者
+load	載入
+reload	重新載入
+search	搜尋
+autotext	自動文字
+file filter	檔案篩選器
+Tag shortcut	標籤簡寫	指的是OmegaT進行標籤保護時自動將諸如<item>變成灰色的<i0>這樣的行為，後者即為tag shortcut
+Panel	面板	似乎和Pane（窗格）是一回事，例如 editor Panel，之前稱為 editor Pane。
+Unicode literals	Unicode 編碼文字
+Java Resource bundle	Java 資源包
+bidirectional control character	雙向控制符	unicode中涉及到格式和控制的 xx character 一般翻譯成 xx-符。具體的控制符例如LRM一般保留原文。
+bidi control character	雙向控制符	即 bidirectional control character
+Directional Formatting Character	定向格式符	unicode中涉及到格式和控制的 xx character 一般翻譯成 xx-符
+Block	區塊	僅指 unicode block
