@@ -4,6 +4,14 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_19c5d57a0" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT has a very active, supportive and multilingual user group.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="miurahr" changedate="20250809T055652Z" creationid="miurahr" creationdate="20250809T055652Z">
+        <seg>OmegaT 擁有非常活躍、支援和多語言的使用者群。</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
