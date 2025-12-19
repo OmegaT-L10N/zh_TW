@@ -3,10 +3,12 @@
   <project version="1.0">
     <repositories>
       <repository type="git" url="https://github.com/OmegaT-L10N/zh_TW.git">
-        <mapping local="/" repository="/"/>
+        <mapping local="/" repository="/">
+          <excludes>.github/**</excludes>
+        </mapping>
       </repository>
       <repository type="git" url="https://github.com/OmegaT-L10N/doc_src.git">
-        <mapping local="source/doc_src/" repository="en"/>
+        <mapping local="source/" repository=""/>
       </repository>
       <repository type="http" url="https://github.com/omegat-org/omegat/raw/master/">
         <mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/>
@@ -33,20 +35,12 @@
       </repository>
       <repository type="http" url="https://raw.githubusercontent.com/omegat-org/omegat/releases/">
         <mapping local="source/6.0/Bundle.properties" repository="6.0/src/org/omegat/Bundle.properties"/>
+        <mapping local="source/5.8/Bundle.properties" repository="5.8/src/org/omegat/Bundle.properties"/>
       </repository>
-      <repository type="http" url="https://github.com/omegat-org/omegat-website/raw/master/">
-        <mapping local="source/website/404.html" repository="_i18n/en/404.html"/>
-        <mapping local="source/website/about.html" repository="_i18n/en/about.html"/>
-        <mapping local="source/website/contact.html" repository="_i18n/en/contact.html"/>
-        <mapping local="source/website/documentation.html" repository="_i18n/en/documentation.html"/>
-        <mapping local="source/website/download.html" repository="_i18n/en/download.html"/>
-        <mapping local="source/website/index.html" repository="_i18n/en/index.html"/>
-        <mapping local="source/website/install.html" repository="_i18n/en/install.html"/>
-        <mapping local="source/website/philosophy.html" repository="_i18n/en/philosophy.html"/>
-        <mapping local="source/website/resources.html" repository="_i18n/en/resources.html"/>
-        <mapping local="source/website/reviews.html" repository="_i18n/en/reviews.html"/>
-        <mapping local="source/website/sponsorship.html" repository="_i18n/en/sponsorship.html"/>
-        <mapping local="source/website/messages.json" repository="_i18n/en/messages.json"/>
+      <repository type="git" url="https://github.com/omegat-l10n/omegat-website.git">
+        <mapping local="source/website/" repository="_i18n/en/">
+          <excludes>**/howtos/**</excludes>
+        </mapping>
         <mapping local="source/website/yml/zh_TW.yml" repository="_i18n/en.yml"/>
       </repository>
     </repositories>
@@ -68,7 +62,7 @@
     <export_tm_dir>__DEFAULT__</export_tm_dir>
     <export_tm_levels>omegat level1 level2</export_tm_levels>
     <source_lang>en</source_lang>
-    <target_lang>zh-TW</target_lang>
+    <target_lang>zh_TW</target_lang>
     <source_tok>org.omegat.tokenizer.LuceneEnglishTokenizer</source_tok>
     <target_tok>org.omegat.tokenizer.LuceneSmartChineseTokenizer</target_tok>
     <sentence_seg>true</sentence_seg>
