@@ -14,10 +14,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a translation memory application that works on Windows, macOS, Linux… It is a tool intended for professional translators.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150045Z" creationid="brlin" creationdate="20260818T150045Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; 是能在 Windows、macOS 和 Linux 上運行之，為專業翻譯人士設計的翻譯記憶工具應用軟體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Briac Pilpré</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144055Z" creationid="brlin" creationdate="20260818T144055Z">
         <seg>Briac Pilpré</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T145932Z" creationid="brlin" creationdate="20260818T145932Z">
+        <seg>關閉</seg>
       </tuv>
     </tu>
     <tu>
