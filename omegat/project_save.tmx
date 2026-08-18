@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>(Software that does this is called "machine translation".</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150138Z" creationid="brlin" creationdate="20260818T150117Z">
+        <seg>（會這樣做的軟體稱為「機器翻譯」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T145835Z" creationid="brlin" creationdate="20260818T145835Z">
@@ -18,6 +26,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150045Z" creationid="brlin" creationdate="20260818T150045Z">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; 是能在 Windows、macOS 和 Linux 上運行之，為專業翻譯人士設計的翻譯記憶工具應用軟體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A more detailed &lt;a0&gt;explanation of free software&lt;/a0&gt; can be found on the Free Software Foundation website.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150403Z" creationid="brlin" creationdate="20260818T150247Z">
+        <seg>您可以在自由軟體基金會網站上找到一份更詳細之&lt;a0&gt;自由軟體的說明內容&lt;/a0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It does not translate for you!</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150104Z" creationid="brlin" creationdate="20260818T150104Z">
+        <seg>這個軟體並不會為您翻譯內容！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T143157Z" creationid="brlin" creationdate="20260818T143157Z">
@@ -150,10 +174,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT can interface to some machine translation programs or Internet services)</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150159Z" creationid="brlin" creationdate="20260818T150130Z">
+        <seg>OmegaT 可以跟某些機器翻譯軟體或網路服務進行交互）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has a very active, supportive and multilingual user group.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="miurahr" changedate="20250809T055652Z" creationid="miurahr" creationdate="20250809T055652Z">
         <seg>OmegaT 擁有非常活躍、支援和多語言的使用者群。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is free software.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150212Z" creationid="brlin" creationdate="20260818T150140Z">
+        <seg>OmegaT 是自由軟體。</seg>
       </tuv>
     </tu>
     <tu>
@@ -170,6 +210,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144101Z" creationid="brlin" creationdate="20260818T144101Z">
         <seg>Philippe Tourigny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Professional features</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150408Z" creationid="brlin" creationdate="20260818T150310Z">
+        <seg>專業功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -194,6 +242,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T130534Z" creationid="brlin" creationdate="20260818T130534Z">
         <seg>抱歉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That means that users like you can download and use it with no restrictions.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150244Z" creationid="brlin" creationdate="20260818T150202Z">
+        <seg>這代表說像您這樣的使用者可以不受限制地下載並使用它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -266,6 +322,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144053Z" creationid="brlin" creationdate="20260818T144053Z">
         <seg>網站管理員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are also free to copy it and pass it on to other people and even modify OmegaT to suit your own requirements.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150308Z" creationid="brlin" creationdate="20260818T150215Z">
+        <seg>另外您可以任意地將其複製並分發給其他人，甚至是修改 OmegaT 以符合您自身的需求。</seg>
       </tuv>
     </tu>
     <tu>
