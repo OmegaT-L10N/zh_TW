@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_19c5d57a0" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_1dac44266" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10,6 +10,30 @@
       </tuv>
       <tuv lang="zh-TW" changeid="miurahr" changedate="20250809T055652Z" creationid="miurahr" creationdate="20250809T055652Z">
         <seg>OmegaT 擁有非常活躍、支援和多語言的使用者群。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sorry</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T130534Z" creationid="brlin" creationdate="20260818T130534Z">
+        <seg>抱歉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We could not find the page you are looking for.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T130550Z" creationid="brlin" creationdate="20260818T130550Z">
+        <seg>我們找不到您要查看的頁面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T132636Z" creationid="brlin" creationdate="20260818T132153Z">
+        <seg>您或可移駕至&lt;a0&gt;網站首頁&lt;/a0&gt;並在那邊找到您所需的資訊。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
