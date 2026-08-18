@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151333Z" creationid="brlin" creationdate="20260818T151333Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; 最新版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a translation memory application that works on Windows, macOS, Linux… It is a tool intended for professional translators.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150045Z" creationid="brlin" creationdate="20260818T150045Z">
@@ -30,10 +38,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is available in many different versions in order to suit a range of user requirements.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151505Z" creationid="brlin" creationdate="20260818T151505Z">
+        <seg>為了滿足廣泛的使用者需求，&lt;s0&gt;OmegaT&lt;/s0&gt; 提供了多種不同的版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A more detailed &lt;a0&gt;explanation of free software&lt;/a0&gt; can be found on the Free Software Foundation website.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150403Z" creationid="brlin" creationdate="20260818T150247Z">
         <seg>您可以在自由軟體基金會網站上找到一份更詳細之&lt;a0&gt;自由軟體的說明內容&lt;/a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151730Z" creationid="brlin" creationdate="20260818T151730Z">
+        <seg>或是如果您早就知道您想要下載哪一種版本的話，點擊下列按鈕查看 OmegaT 不同的版本一覽。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Compatible with other translation memory applications via exchange formats such as TMX, TTX, TXML, XLIFF, SDLXLIFF</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151205Z" creationid="brlin" creationdate="20260818T151205Z">
+        <seg>透過像是 TMX、TTX、TXML、XLIFF、SDLXLIFF 等資料交換格式與其他翻譯記憶軟體相容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Developers</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144124Z" creationid="brlin" creationdate="20260818T144124Z">
@@ -66,6 +98,30 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144059Z" creationid="brlin" creationdate="20260818T144059Z">
         <seg>文件管理員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151318Z" creationid="brlin" creationdate="20260818T151318Z">
+        <seg>下載</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download Overview</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151816Z" creationid="brlin" creationdate="20260818T151806Z">
+        <seg>下載總覽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download Selector</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151746Z" creationid="brlin" creationdate="20260818T151746Z">
+        <seg>下載選擇器</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,10 +158,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Integral spelling checker that uses Hunspell dictionaries (same as in other software such as LibreOffice or Mozilla FireFox)</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151106Z" creationid="brlin" creationdate="20260818T151106Z">
+        <seg>使用（跟 LibreOffice 或 Mozilla FireFox 等其他軟體所使用之相同的）Hunspell 字典的內建拼字檢查工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Integration manager</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144031Z" creationid="brlin" creationdate="20260818T144031Z">
         <seg>程式碼整合管理員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Interface to machine translation/neural machine translation software/Web services</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151300Z" creationid="brlin" creationdate="20260818T151300Z">
+        <seg>與機器翻譯、神經網路機器翻譯軟體、Web 服務交互</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,6 +246,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MediaWiki (Wikipedia)</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150852Z" creationid="brlin" creationdate="20260818T150852Z">
+        <seg>MediaWiki（维基百科）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Microsoft Office Word, Excel, PowerPoint (2007 or later)</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150823Z" creationid="brlin" creationdate="20260818T150823Z">
+        <seg>Microsoft Office Word、Excel 或 PowerPoint（2007 或以後版本）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT - The Free Translation Memory Tool</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T145704Z" creationid="brlin" creationdate="20260818T145704Z">
@@ -186,6 +274,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T145757Z" creationid="brlin" creationdate="20260818T145757Z">
         <seg>OmegaT &lt;s0&gt;免費的翻譯記憶工具&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT Screenshot</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151313Z" creationid="brlin" creationdate="20260818T151313Z">
+        <seg>OmegaT 的畫面截圖</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OpenDocument Format (native file format for LibreOffice, Apache OpenOffice)</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150845Z" creationid="brlin" creationdate="20260818T150845Z">
+        <seg>開放文件格式(ODF)（LibreOffice 與 Apache OpenOffice 的原生檔案格式）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Original author of the OmegaT application</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T143221Z" creationid="brlin" creationdate="20260818T143221Z">
@@ -226,6 +330,22 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144101Z" creationid="brlin" creationdate="20260818T144101Z">
         <seg>Philippe Tourigny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plain text</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150855Z" creationid="brlin" creationdate="20260818T150855Z">
+        <seg>純文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Powerful tools</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150903Z" creationid="brlin" creationdate="20260818T150903Z">
+        <seg>强大的工具</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Support for right-to-left languages</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151053Z" creationid="brlin" creationdate="20260818T151053Z">
+        <seg>右至左(RTL)語言支援</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That means that users like you can download and use it with no restrictions.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150244Z" creationid="brlin" creationdate="20260818T150202Z">
@@ -318,6 +446,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151646Z" creationid="brlin" creationdate="20260818T151646Z">
+        <seg>要找到最適合您的版本點擊下列連結至本軟體的下載選擇器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unicode support: can be used with various alphabets and scripts</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151046Z" creationid="brlin" creationdate="20260818T151046Z">
+        <seg>Unicode 支援：可以在多種語言字母與書寫系統使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User glossaries with recognition of inflected forms</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150752Z" creationid="brlin" creationdate="20260818T150752Z">
@@ -330,6 +474,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T145440Z" creationid="brlin" creationdate="20260818T145440Z">
         <seg>使用者群組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User portrait</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151936Z" creationid="brlin" creationdate="20260818T151936Z">
+        <seg>使用者肖像照</seg>
       </tuv>
     </tu>
     <tu>
@@ -366,6 +518,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Work with more than 30 file formats</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150807Z" creationid="brlin" creationdate="20260818T150807Z">
+        <seg>支援 30 種以上的檔案格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XHTML and HTML</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150827Z" creationid="brlin" creationdate="20260818T150827Z">
+        <seg>XHTML 與 HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You are also free to copy it and pass it on to other people and even modify OmegaT to suit your own requirements.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150308Z" creationid="brlin" creationdate="20260818T150215Z">
@@ -386,6 +554,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T145838Z" creationid="brlin" creationdate="20260818T145838Z">
         <seg>×</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>…and around 30 other file formats</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150859Z" creationid="brlin" creationdate="20260818T150859Z">
+        <seg>……以及大約 30 種其他的檔案格式</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
