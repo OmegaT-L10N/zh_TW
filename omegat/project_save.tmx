@@ -6,10 +6,138 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Briac Pilpré</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144055Z" creationid="brlin" creationdate="20260818T144055Z">
+        <seg>Briac Pilpré</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Developers</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144124Z" creationid="brlin" creationdate="20260818T144124Z">
+        <seg>開發者們</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Documentation manager</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144059Z" creationid="brlin" creationdate="20260818T144059Z">
+        <seg>文件管理員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English version translators</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144141Z" creationid="brlin" creationdate="20260818T144141Z">
+        <seg>英文版翻譯者們</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hiroshi Miura</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T143904Z" creationid="brlin" creationdate="20260818T143904Z">
+        <seg>Hiroshi Miura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Integration manager</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144031Z" creationid="brlin" creationdate="20260818T144031Z">
+        <seg>程式碼整合管理員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T143157Z" creationid="brlin" creationdate="20260818T143157Z">
+        <seg>它的目標是開發、散布與支持 OmegaT，一個開放原始碼翻譯記憶應用軟體的使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Jean-Christophe Helary</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T143240Z" creationid="brlin" creationdate="20260818T143240Z">
+        <seg>Jean-Christophe Helary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keith Godfrey</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T143225Z" creationid="brlin" creationdate="20260818T143225Z">
+        <seg>Keith Godfrey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Kos Ivantsov</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144119Z" creationid="brlin" creationdate="20260818T144119Z">
+        <seg>Kos Ivantsov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lead developer</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T143858Z" creationid="brlin" creationdate="20260818T143305Z">
+        <seg>首席開發人員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Localization manager, user group owner</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144117Z" creationid="brlin" creationdate="20260818T144117Z">
+        <seg>軟體在地化管理員、使用者群組擁有者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has a very active, supportive and multilingual user group.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="miurahr" changedate="20250809T055652Z" creationid="miurahr" creationdate="20250809T055652Z">
         <seg>OmegaT 擁有非常活躍、支援和多語言的使用者群。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Original author of the OmegaT application</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T143221Z" creationid="brlin" creationdate="20260818T143221Z">
+        <seg>OmegaT 應用軟體的原始作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Philippe Tourigny</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144101Z" creationid="brlin" creationdate="20260818T144101Z">
+        <seg>Philippe Tourigny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project manager</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T143236Z" creationid="brlin" creationdate="20260818T143236Z">
+        <seg>專案管理員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T145340Z" creationid="brlin" creationdate="20260818T145340Z">
+        <seg>自本專案創立以來，它得到了數十位其他貢獻者的支持，族繁不及備載，但我們對他們的協助銘感五內。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22,10 +150,58 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The OmegaT project</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T142942Z" creationid="brlin" creationdate="20260818T142942Z">
+        <seg>OmegaT 專案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT project is maintained by an informal, international group of volunteers.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T143048Z" creationid="brlin" creationdate="20260818T143048Z">
+        <seg>OmegaT 專案由一群非正式、國際化之志願者所維護。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The philosophy of the project is described &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144317Z" creationid="brlin" creationdate="20260818T144317Z">
+        <seg>本專案的理念說明參閱&lt;a0&gt;這邊&lt;/a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The principal members of the project are:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T143206Z" creationid="brlin" creationdate="20260818T143206Z">
+        <seg>專案的主要成員為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We could not find the page you are looking for.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T130550Z" creationid="brlin" creationdate="20260818T130550Z">
         <seg>我們找不到您要查看的頁面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Website content authors</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144132Z" creationid="brlin" creationdate="20260818T144132Z">
+        <seg>網站內容作者們</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Website manager</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144053Z" creationid="brlin" creationdate="20260818T144053Z">
+        <seg>網站管理員</seg>
       </tuv>
     </tu>
     <tu>
