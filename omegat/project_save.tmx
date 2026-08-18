@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T145835Z" creationid="brlin" creationdate="20260818T145835Z">
+        <seg>&lt;a0&gt;下載&lt;/a0&gt; &lt;a1&gt;入門&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Briac Pilpré</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144055Z" creationid="brlin" creationdate="20260818T144055Z">
@@ -34,6 +42,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144141Z" creationid="brlin" creationdate="20260818T144141Z">
         <seg>英文版翻譯者們</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Get Started with OmegaT</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T145849Z" creationid="brlin" creationdate="20260818T145849Z">
+        <seg>OmegaT 入門</seg>
       </tuv>
     </tu>
     <tu>
@@ -98,6 +114,22 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144117Z" creationid="brlin" creationdate="20260818T144117Z">
         <seg>軟體在地化管理員、使用者群組擁有者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT - The Free Translation Memory Tool</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T145704Z" creationid="brlin" creationdate="20260818T145704Z">
+        <seg>[fuzzy]OmegaT - 免费的翻译記憶工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T145757Z" creationid="brlin" creationdate="20260818T145757Z">
+        <seg>OmegaT &lt;s0&gt;免費的翻譯記憶工具&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -190,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Video by &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T145910Z" creationid="brlin" creationdate="20260818T145910Z">
+        <seg>影片由 &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard) 製作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We could not find the page you are looking for.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T130550Z" creationid="brlin" creationdate="20260818T130550Z">
@@ -218,6 +258,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T132636Z" creationid="brlin" creationdate="20260818T132153Z">
         <seg>您或可移駕至&lt;a0&gt;網站首頁&lt;/a0&gt;並在那邊找到您所需的資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>×</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T145838Z" creationid="brlin" creationdate="20260818T145838Z">
+        <seg>×</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
