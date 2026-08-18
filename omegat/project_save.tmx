@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fuzzy matching</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150551Z" creationid="brlin" creationdate="20260818T150429Z">
+        <seg>模糊吻合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Get Started with OmegaT</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T145849Z" creationid="brlin" creationdate="20260818T145849Z">
@@ -158,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Match propagation</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150544Z" creationid="brlin" creationdate="20260818T150544Z">
+        <seg>翻譯吻合自動傳遞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT - The Free Translation Memory Tool</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T145704Z" creationid="brlin" creationdate="20260818T145704Z">
@@ -230,6 +246,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simultaneous processing of multiple-file projects</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150609Z" creationid="brlin" creationdate="20260818T150609Z">
+        <seg>同時處理包含多個檔案的專案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simultaneous use of multiple translation memories</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150632Z" creationid="brlin" creationdate="20260818T150632Z">
+        <seg>同時使用多個翻譯記憶資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T145340Z" creationid="brlin" creationdate="20260818T145340Z">
@@ -282,6 +314,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T143206Z" creationid="brlin" creationdate="20260818T143206Z">
         <seg>專案的主要成員為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User glossaries with recognition of inflected forms</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150752Z" creationid="brlin" creationdate="20260818T150752Z">
+        <seg>具備識別詞形變化功能之使用者詞彙表</seg>
       </tuv>
     </tu>
     <tu>
