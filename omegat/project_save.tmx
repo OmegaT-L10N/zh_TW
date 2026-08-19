@@ -232,8 +232,8 @@
       <tuv lang="en">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143435Z" creationid="brlin" creationdate="20260819T143407Z">
-        <seg>已初始化 {0}-{1} 團隊專案。</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143449Z" creationid="brlin" creationdate="20260819T143407Z">
+        <seg>已初始化 {0}-{1} 協作專案。</seg>
       </tuv>
     </tu>
     <tu>
