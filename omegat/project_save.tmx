@@ -6,6 +6,142 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&amp;Add</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144218Z" creationid="brlin" creationdate="20260819T144218Z">
+        <seg>新增(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Add...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144211Z" creationid="brlin" creationdate="20260819T144211Z">
+        <seg>新增…(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Apply</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143809Z" creationid="brlin" creationdate="20260819T143809Z">
+        <seg>套用(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Cancel</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143803Z" creationid="brlin" creationdate="20260819T143803Z">
+        <seg>取消(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Close</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143817Z" creationid="brlin" creationdate="20260819T143817Z">
+        <seg>關閉(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Edit...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144235Z" creationid="brlin" creationdate="20260819T144235Z">
+        <seg>編輯…(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Filter</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143850Z" creationid="brlin" creationdate="20260819T143850Z">
+        <seg>過濾(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Find Next</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144100Z" creationid="brlin" creationdate="20260819T144100Z">
+        <seg>尋找下一個(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Finish</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144130Z" creationid="brlin" creationdate="20260819T144130Z">
+        <seg>完成(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Insert</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144258Z" creationid="brlin" creationdate="20260819T144258Z">
+        <seg>插入(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;OK</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143757Z" creationid="brlin" creationdate="20260819T143757Z">
+        <seg>確定(&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Remove</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144147Z" creationid="brlin" creationdate="20260819T144147Z">
+        <seg>移除(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Remove Filter</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144141Z" creationid="brlin" creationdate="20260819T144141Z">
+        <seg>移除過濾器(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Replace and Find Next</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144118Z" creationid="brlin" creationdate="20260819T144118Z">
+        <seg>取代並尋找下一個(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Save As...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144313Z" creationid="brlin" creationdate="20260819T144313Z">
+        <seg>另存新檔…(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Search</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143845Z" creationid="brlin" creationdate="20260819T143845Z">
+        <seg>搜尋(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Show Replacements</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143942Z" creationid="brlin" creationdate="20260819T143942Z">
+        <seg>顯示取代項目(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Software that does this is called "machine translation".</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150138Z" creationid="brlin" creationdate="20260818T150117Z">
@@ -14,10 +150,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1) Reduce the number of files in the source folder;</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144456Z" creationid="brlin" creationdate="20260819T144456Z">
+        <seg>1) 減少來源資料夾中的檔案數量；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2) Increase the amount of memory available to OmegaT.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144515Z" creationid="brlin" creationdate="20260819T144515Z">
+        <seg>2) 增加 OmegaT 可用的主記憶體量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T145835Z" creationid="brlin" creationdate="20260818T145835Z">
         <seg>&lt;a0&gt;下載&lt;/a0&gt; &lt;a1&gt;入門&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T145053Z" creationid="brlin" creationdate="20260819T145053Z">
+        <seg>&lt;auto&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -50,6 +210,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150403Z" creationid="brlin" creationdate="20260818T150247Z">
         <seg>您可以在自由軟體基金會網站上找到一份更詳細之&lt;a0&gt;自由軟體的說明內容&lt;/a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A&amp;dd</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144225Z" creationid="brlin" creationdate="20260819T144225Z">
+        <seg>新增(&amp;D)</seg>
       </tuv>
     </tu>
     <tu>
@@ -110,6 +278,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144318Z" creationid="brlin" creationdate="20260819T144318Z">
+        <seg>確定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144942Z" creationid="brlin" creationdate="20260819T144942Z">
+        <seg>當前 VM 的主記憶體用量：{0}MB；其中包含可用主記憶體：{1}MB；最大可用主記憶體：{2}MB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Developers</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144124Z" creationid="brlin" creationdate="20260818T144124Z">
@@ -162,6 +346,30 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144141Z" creationid="brlin" creationdate="20260818T144141Z">
         <seg>英文版翻譯者們</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144315Z" creationid="brlin" creationdate="20260819T144315Z">
+        <seg>錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find Ne&amp;xt</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144043Z" creationid="brlin" creationdate="20260819T144043Z">
+        <seg>尋找下一個(&amp;X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find Pre&amp;vious</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144035Z" creationid="brlin" creationdate="20260819T144035Z">
+        <seg>尋找前一個(&amp;V)</seg>
       </tuv>
     </tu>
     <tu>
@@ -446,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT ran out of memory and will close when you click OK.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144431Z" creationid="brlin" creationdate="20260819T144431Z">
+        <seg>OmegaT 已耗盡主記憶體並會在您點擊「確定」時結束運行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OpenDocument Format (native file format for LibreOffice, Apache OpenOffice)</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150845Z" creationid="brlin" creationdate="20260818T150845Z">
@@ -470,10 +686,28 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place source files in ./source and supplementary
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143748Z" creationid="brlin" creationdate="20260819T143748Z">
+        <seg>請將來源檔案放置於 ./source，補充的材料隨需放置於 ./tm、./glossary 和 ./dictionary 資料夾，然後提交全部內容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plain text</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150855Z" creationid="brlin" creationdate="20260818T150855Z">
         <seg>純文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Possible solutions:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144436Z" creationid="brlin" creationdate="20260819T144436Z">
+        <seg>可能的解決方案：</seg>
       </tuv>
     </tu>
     <tu>
@@ -498,6 +732,54 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T143236Z" creationid="brlin" creationdate="20260818T143236Z">
         <seg>專案管理員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>R&amp;emove</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144153Z" creationid="brlin" creationdate="20260819T144153Z">
+        <seg>移除(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Re&amp;place All</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143952Z" creationid="brlin" creationdate="20260819T143952Z">
+        <seg>取代全部(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restore De&amp;faults</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144253Z" creationid="brlin" creationdate="20260819T144253Z">
+        <seg>回復預設值(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Run OmegaT" in the user manual.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144724Z" creationid="brlin" creationdate="20260819T144724Z">
+        <seg>執行 OmegaT」使用手冊章節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Running on Java {0} ({1}-bit)</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144808Z" creationid="brlin" creationdate="20260819T144808Z">
+        <seg>正在於 Java {0}（{1} 位元）執行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See "How To...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144705Z" creationid="brlin" creationdate="20260819T144705Z">
+        <seg>參閱「如何…</seg>
       </tuv>
     </tu>
     <tu>
@@ -658,6 +940,17 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151046Z" creationid="brlin" creationdate="20260818T151046Z">
         <seg>Unicode 支援：可以在多種語言字母與書寫系統使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" from the command 
+line or in the OmegaT start script;
+The current setting is {0}MB;</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144648Z" creationid="brlin" creationdate="20260819T144648Z">
+        <seg>在命令列或於 OmegaT 啟動腳本中使用「java -Xmx&lt;MiB-單位大小&gt;M -jar OmegaT.jar」命令；
+目前的設定是 {0}MB；</seg>
       </tuv>
     </tu>
     <tu>
