@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T135307Z" creationid="brlin" creationdate="20260819T135307Z">
+        <seg>[fuzzy]OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT - The Free Translation Memory Tool</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T145704Z" creationid="brlin" creationdate="20260818T145704Z">
