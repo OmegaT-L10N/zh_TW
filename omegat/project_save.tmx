@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Compatibility</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T151620Z" creationid="brlin" creationdate="20260819T151620Z">
+        <seg>相容性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Compatible with other translation memory applications via exchange formats such as TMX, TTX, TXML, XLIFF, SDLXLIFF</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151205Z" creationid="brlin" creationdate="20260818T151205Z">
@@ -304,8 +312,8 @@
       <tuv lang="en">
         <seg>Contact</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T150253Z" creationid="brlin" creationdate="20260819T150253Z">
-        <seg>聯絡方式</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T151313Z" creationid="brlin" creationdate="20260819T150253Z">
+        <seg>聯絡管道</seg>
       </tuv>
     </tu>
     <tu>
@@ -322,6 +330,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T150329Z" creationid="brlin" creationdate="20260819T150329Z">
         <seg>貢獻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cross-platform package, with no JRE</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T151852Z" creationid="brlin" creationdate="20260819T151852Z">
+        <seg>不包含 JRE 的跨平台軟體包</seg>
       </tuv>
     </tu>
     <tu>
@@ -478,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How-To</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T151415Z" creationid="brlin" creationdate="20260819T151415Z">
+        <seg>How-To 教學文章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want to know more, read the user manual.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T141952Z" creationid="brlin" creationdate="20260819T141952Z">
@@ -610,6 +634,22 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T143858Z" creationid="brlin" creationdate="20260818T143305Z">
         <seg>首席開發人員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Linux package, with 32-bit JRE</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T151821Z" creationid="brlin" creationdate="20260819T151821Z">
+        <seg>包含 32 位元 JRE 的 Linux 軟體包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Linux package, with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T151831Z" creationid="brlin" creationdate="20260819T151831Z">
+        <seg>包含 64 位元 JRE 的 Linux 軟體包</seg>
       </tuv>
     </tu>
     <tu>
@@ -872,6 +912,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reviews</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T151454Z" creationid="brlin" creationdate="20260819T151454Z">
+        <seg>評論</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run OmegaT" in the user manual.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144724Z" creationid="brlin" creationdate="20260819T144724Z">
@@ -932,6 +980,22 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T130534Z" creationid="brlin" creationdate="20260818T130534Z">
         <seg>抱歉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source code</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T151907Z" creationid="brlin" creationdate="20260819T151907Z">
+        <seg>原始程式碼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sponsorship</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T151526Z" creationid="brlin" creationdate="20260819T151526Z">
+        <seg>贊助</seg>
       </tuv>
     </tu>
     <tu>
@@ -1171,6 +1235,30 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Windows installer packaged with 32-bit JRE</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T151926Z" creationid="brlin" creationdate="20260819T151926Z">
+        <seg>包含 32 位元 JRE 的 Windows 安裝程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows installer packaged with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T151942Z" creationid="brlin" creationdate="20260819T151942Z">
+        <seg>包含 64 位元 JRE 的 Windows 安裝程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows installer with no JRE</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T151701Z" creationid="brlin" creationdate="20260819T151701Z">
+        <seg>不包含 JRE 的 Windows 安裝程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Work with more than 30 file formats</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150807Z" creationid="brlin" creationdate="20260818T150807Z">
@@ -1207,6 +1295,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143142Z" creationid="brlin" creationdate="20260819T135818Z">
         <seg>zh-TW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS package, Notarized</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T151743Z" creationid="brlin" creationdate="20260819T151743Z">
+        <seg>經公證的 macOS 軟體包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS package, Unsigned</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T151804Z" creationid="brlin" creationdate="20260819T151804Z">
+        <seg>未簽名之 macOS 軟體包</seg>
       </tuv>
     </tu>
     <tu>
