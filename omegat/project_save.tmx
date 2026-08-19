@@ -70,6 +70,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change the language codes to reflect your source and target languages.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T140741Z" creationid="brlin" creationdate="20260819T140741Z">
+        <seg>變更語言代碼以反映您的來源與目標語言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;g0&gt;Add Files...&lt;/g0&gt; and add the files that you want to translate.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T141231Z" creationid="brlin" creationdate="20260819T141231Z">
+        <seg>點擊&lt;g0&gt;添加檔案…&lt;/g0&gt;按鈕加入您要翻譯的檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;g0&gt;OK&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T140806Z" creationid="brlin" creationdate="20260819T140748Z">
+        <seg>點擊&lt;g0&gt;確定&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Close</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T145932Z" creationid="brlin" creationdate="20260818T145932Z">
@@ -90,6 +114,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144124Z" creationid="brlin" creationdate="20260818T144124Z">
         <seg>開發者們</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dismiss the window.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T141239Z" creationid="brlin" creationdate="20260819T141239Z">
+        <seg>關閉視窗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,6 +198,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hit &lt;k0&gt;Enter&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T141458Z" creationid="brlin" creationdate="20260819T141458Z">
+        <seg>按下 &lt;k0&gt;Enter&lt;/k0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hit &lt;k0&gt;F1&lt;/k0&gt; or access the &lt;g1&gt;&gt; Help&lt;/g1&gt; menu to open the user manual.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T140329Z" creationid="brlin" creationdate="20260819T140329Z">
+        <seg>按下 &lt;k0&gt;F1&lt;/k0&gt; 或存取&lt;g1&gt;說明&lt;/g1&gt;選單以開啟使用手冊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Integral spelling checker that uses Hunspell dictionaries (same as in other software such as LibreOffice or Mozilla FireFox)</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151106Z" creationid="brlin" creationdate="20260818T151106Z">
@@ -190,10 +238,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It comes with a thorough introduction to OmegaT.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T140428Z" creationid="brlin" creationdate="20260819T140428Z">
+        <seg>其包含了 OmegaT 的詳盡介紹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It does not translate for you!</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150104Z" creationid="brlin" creationdate="20260818T150104Z">
         <seg>這個軟體並不會為您翻譯內容！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It now displays them segment per segment for you to translate them.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T141435Z" creationid="brlin" creationdate="20260819T141435Z">
+        <seg>它現在會逐片段陳列這些內容讓您去翻譯它們。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It will also create an empty translation memory that it will fill in the background, one segment at as time as you type your translation.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T141049Z" creationid="brlin" creationdate="20260819T141049Z">
+        <seg>它另外也會建立一個會在您逐片段輸入您的翻譯期間在背景逐漸填入資料之空翻譯記憶空間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -250,6 +322,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150544Z" creationid="brlin" creationdate="20260818T150544Z">
         <seg>翻譯吻合自動傳遞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches for that memory will eventually appear in the &lt;g0&gt;Fuzzy Matches&lt;/g0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T141142Z" creationid="brlin" creationdate="20260819T141142Z">
+        <seg>比對到該記憶的翻譯會逐漸出現在&lt;g0&gt;模糊配對&lt;/g0&gt;面板。</seg>
       </tuv>
     </tu>
     <tu>
@@ -470,10 +550,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To start using OmegaT with minimal settings, do this:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T140535Z" creationid="brlin" creationdate="20260819T140535Z">
+        <seg>要以最小化設定開始使用 OmegaT，這樣做：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Type the translation of the first segment.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T141447Z" creationid="brlin" creationdate="20260819T141447Z">
+        <seg>輸入第一個片段的翻譯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unicode support: can be used with various alphabets and scripts</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151046Z" creationid="brlin" creationdate="20260818T151046Z">
         <seg>Unicode 支援：可以在多種語言字母與書寫系統使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;g0&gt;&gt; Project&lt;/g0&gt; &lt;g1&gt;&gt; New...&lt;/g1&gt; to create a new project.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T140706Z" creationid="brlin" creationdate="20260819T140706Z">
+        <seg>使用 &lt;g0&gt;&gt; 專案&lt;/g0&gt; &lt;g1&gt;&gt; 建立新專案&lt;/g1&gt;以建立新專案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;g0&gt;&gt; Project&lt;/g0&gt;&lt;g1&gt;&gt; Create Translated Files&lt;/g1&gt; to create the translated document at any time.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T141712Z" creationid="brlin" creationdate="20260819T141712Z">
+        <seg>使用 &lt;g0&gt;&gt; 專案&lt;/g0&gt;&lt;g1&gt;&gt; 匯出所有譯文檔案&lt;/g1&gt; 以在任何時候建立已翻譯之文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -586,6 +698,30 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150859Z" creationid="brlin" creationdate="20260818T150859Z">
         <seg>……以及大約 30 種其他的檔案格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT will copy the selected files into the project that you created in the previous step.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T141311Z" creationid="brlin" creationdate="20260819T141311Z">
+        <seg>→ OmegaT 會將選取的檔案複製進您於先前步驟所建立之專案中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT will create a folder set that contains your files.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T140843Z" creationid="brlin" creationdate="20260819T140843Z">
+        <seg>→ OmegaT 會建立一個包含您的檔案的資料夾集合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT will register that segment into the project translation memory and will move the cursor to the next segment.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T141542Z" creationid="brlin" creationdate="20260819T141542Z">
+        <seg>→ OmegaT 會將該片段註冊進專案的翻譯記憶中，並將游標移動到下一個片段。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
