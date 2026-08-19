@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initialized {0}-{1} team project.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143435Z" creationid="brlin" creationdate="20260819T143407Z">
+        <seg>已初始化 {0}-{1} 團隊專案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Integral spelling checker that uses Hunspell dictionaries (same as in other software such as LibreOffice or Mozilla FireFox)</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151106Z" creationid="brlin" creationdate="20260818T151106Z">
@@ -770,6 +778,46 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143142Z" creationid="brlin" creationdate="20260819T135818Z">
         <seg>zh-TW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} {1}</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143342Z" creationid="brlin" creationdate="20260819T143342Z">
+        <seg>{0} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143348Z" creationid="brlin" creationdate="20260819T143348Z">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143334Z" creationid="brlin" creationdate="20260819T143334Z">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}_{1}</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143244Z" creationid="brlin" creationdate="20260819T143244Z">
+        <seg>{0}_{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}_{1}_{2}</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143243Z" creationid="brlin" creationdate="20260819T143243Z">
+        <seg>{0}_{1}_{2}</seg>
       </tuv>
     </tu>
     <tu>
