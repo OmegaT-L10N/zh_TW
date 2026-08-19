@@ -488,8 +488,8 @@
       <tuv lang="en">
         <seg>It is distributed under the terms of the &lt;e0&gt;GNU General Public License, version 3.0&lt;/e0&gt;.</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T142340Z" creationid="brlin" creationdate="20260819T142340Z">
-        <seg>它係以&lt;e0&gt;3.0 版之 GNU 通用公眾授權條款(GPL)&lt;e0&gt;的條款被散布。</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T145818Z" creationid="brlin" creationdate="20260819T142340Z">
+        <seg>它係以&lt;e0&gt;3.0 版之 GNU 通用公眾授權條款(GPL)&lt;/e0&gt;的條款被散布。</seg>
       </tuv>
     </tu>
     <tu>
