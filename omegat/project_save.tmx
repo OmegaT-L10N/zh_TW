@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark Glossary Matches</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T152724Z" creationid="brlin" creationdate="20260819T152724Z">
+        <seg>標示詞彙表吻合項目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Match propagation</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150544Z" creationid="brlin" creationdate="20260818T150544Z">
