@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>About</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T150241Z" creationid="brlin" creationdate="20260819T150241Z">
+        <seg>關於</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151730Z" creationid="brlin" creationdate="20260818T151730Z">
@@ -286,6 +294,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Connect</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T150320Z" creationid="brlin" creationdate="20260819T150320Z">
+        <seg>連結</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contact</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T150253Z" creationid="brlin" creationdate="20260819T150253Z">
+        <seg>聯絡方式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contact and Support</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T150341Z" creationid="brlin" creationdate="20260819T150341Z">
+        <seg>聯絡與支援</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contributing</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T150329Z" creationid="brlin" creationdate="20260819T150329Z">
+        <seg>貢獻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144942Z" creationid="brlin" creationdate="20260819T144942Z">
@@ -306,6 +346,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T141239Z" creationid="brlin" creationdate="20260819T141239Z">
         <seg>關閉視窗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T150247Z" creationid="brlin" creationdate="20260819T150247Z">
+        <seg>說明文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -446,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T150259Z" creationid="brlin" creationdate="20260819T150259Z">
+        <seg>安裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Integral spelling checker that uses Hunspell dictionaries (same as in other software such as LibreOffice or Mozilla FireFox)</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151106Z" creationid="brlin" creationdate="20260818T151106Z">
@@ -542,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Languages</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T150239Z" creationid="brlin" creationdate="20260819T150239Z">
+        <seg>語言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Lead developer</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T143858Z" creationid="brlin" creationdate="20260818T143305Z">
@@ -554,6 +618,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144117Z" creationid="brlin" creationdate="20260818T144117Z">
         <seg>軟體在地化管理員、使用者群組擁有者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Manual</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T150353Z" creationid="brlin" creationdate="20260819T150353Z">
+        <seg>使用手冊</seg>
       </tuv>
     </tu>
     <tu>
@@ -600,8 +672,8 @@
       <tuv lang="en">
         <seg>OmegaT - The Free Translation Memory Tool</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T145958Z" creationid="brlin" creationdate="20260818T145704Z">
-        <seg>OmegaT - 免費的翻譯記憶工具</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T150850Z" creationid="brlin" creationdate="20260818T145704Z">
+        <seg>OmegaT - 自由的翻譯記憶工具</seg>
       </tuv>
     </tu>
     <tu>
@@ -686,10 +758,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Page Not Found</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T150334Z" creationid="brlin" creationdate="20260819T150334Z">
+        <seg>找不到網頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Philippe Tourigny</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144101Z" creationid="brlin" creationdate="20260818T144101Z">
         <seg>Philippe Tourigny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Philosophy</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T150344Z" creationid="brlin" creationdate="20260819T150344Z">
+        <seg>理想</seg>
       </tuv>
     </tu>
     <tu>
@@ -708,6 +796,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150855Z" creationid="brlin" creationdate="20260818T150855Z">
         <seg>純文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Policies</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T150348Z" creationid="brlin" creationdate="20260819T150348Z">
+        <seg>政策</seg>
       </tuv>
     </tu>
     <tu>
@@ -756,6 +852,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143952Z" creationid="brlin" creationdate="20260819T143952Z">
         <seg>取代全部(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resources</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T150304Z" creationid="brlin" creationdate="20260819T150304Z">
+        <seg>資源</seg>
       </tuv>
     </tu>
     <tu>
@@ -832,6 +936,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Support</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T150308Z" creationid="brlin" creationdate="20260819T150308Z">
+        <seg>支援</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Support for right-to-left languages</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151053Z" creationid="brlin" creationdate="20260818T151053Z">
@@ -844,6 +956,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150244Z" creationid="brlin" creationdate="20260818T150202Z">
         <seg>這代表說像您這樣的使用者可以不受限制地下載並使用它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT Project</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T150324Z" creationid="brlin" creationdate="20260819T150324Z">
+        <seg>OmegaT 專案</seg>
       </tuv>
     </tu>
     <tu>
@@ -932,6 +1052,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T140535Z" creationid="brlin" creationdate="20260819T140535Z">
         <seg>要以最小化設定開始使用 OmegaT，這樣做：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tutorials</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T150356Z" creationid="brlin" creationdate="20260819T150356Z">
+        <seg>教學文件</seg>
       </tuv>
     </tu>
     <tu>
