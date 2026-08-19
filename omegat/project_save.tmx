@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>First steps</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T140027Z" creationid="brlin" creationdate="20260819T140027Z">
+        <seg>新手上路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fuzzy matching</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150551Z" creationid="brlin" creationdate="20260818T150429Z">
@@ -554,6 +562,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T132636Z" creationid="brlin" creationdate="20260818T132153Z">
         <seg>您或可移駕至&lt;a0&gt;網站首頁&lt;/a0&gt;並在那邊找到您所需的資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T135849Z" creationid="brlin" creationdate="20260819T135818Z">
+        <seg>en</seg>
       </tuv>
     </tu>
     <tu>
