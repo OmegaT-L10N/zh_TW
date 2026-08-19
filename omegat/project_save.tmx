@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Freedoms</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T142012Z" creationid="brlin" creationdate="20260819T142012Z">
+        <seg>數種自由</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fuzzy matching</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150551Z" creationid="brlin" creationdate="20260818T150429Z">
@@ -214,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you want to know more, read the user manual.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T141952Z" creationid="brlin" creationdate="20260819T141952Z">
+        <seg>如果您想要了解更多的話，閱讀使用手冊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Integral spelling checker that uses Hunspell dictionaries (same as in other software such as LibreOffice or Mozilla FireFox)</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151106Z" creationid="brlin" creationdate="20260818T151106Z">
@@ -250,6 +266,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150104Z" creationid="brlin" creationdate="20260818T150104Z">
         <seg>這個軟體並不會為您翻譯內容！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is distributed under the terms of the &lt;e0&gt;GNU General Public License, version 3.0&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T142340Z" creationid="brlin" creationdate="20260819T142340Z">
+        <seg>它係以&lt;e0&gt;3.0 版之 GNU 通用公眾授權條款(GPL)&lt;e0&gt;的條款被散布。</seg>
       </tuv>
     </tu>
     <tu>
@@ -398,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is a free computer-assisted translation (CAT) solution for professional translators.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T142052Z" creationid="brlin" creationdate="20260819T142052Z">
+        <seg>OmegaT 是個為專業翻譯人士設計之免費的電腦輔助翻譯(CAT)解決方案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is free software.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150212Z" creationid="brlin" creationdate="20260818T150140Z">
@@ -458,6 +490,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T143236Z" creationid="brlin" creationdate="20260818T143236Z">
         <seg>專案管理員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;g1&gt;&gt; Help&lt;/g1&gt; &lt;g2&gt;&gt; About&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T142450Z" creationid="brlin" creationdate="20260819T142450Z">
+        <seg>參閱 &lt;g1&gt;&gt; 說明&lt;/g1&gt; &lt;g2&gt;&gt; 關於 OmegaT&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -526,6 +566,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The freedom to distribute copies of your modified versions to others.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T142842Z" creationid="brlin" creationdate="20260819T142842Z">
+        <seg>以及散布您修改過之版本的副本給他人的自由。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The freedom to redistribute copies so you can help others.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T142807Z" creationid="brlin" creationdate="20260819T142807Z">
+        <seg>再散布其副本以幫助他人的自由。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The freedom to run OmegaT as you wish, for any purpose.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T142631Z" creationid="brlin" creationdate="20260819T142631Z">
+        <seg>於任何用途隨您意願執行 OmegaT 的自由。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The freedom to study how OmegaT works, and change it so it does your computing as you wish.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T142738Z" creationid="brlin" creationdate="20260819T142738Z">
+        <seg>研究 OmegaT 的運作方式並修改它使其隨您意願進行您的運算的自由。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The license grants you the following freedoms:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T142514Z" creationid="brlin" creationdate="20260819T142514Z">
+        <seg>此授權條款授予您下列自由：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The philosophy of the project is described &lt;a0&gt;here&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144317Z" creationid="brlin" creationdate="20260818T144317Z">
@@ -586,6 +666,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T141712Z" creationid="brlin" creationdate="20260819T141712Z">
         <seg>使用 &lt;g0&gt;&gt; 專案&lt;/g0&gt;&lt;g1&gt;&gt; 匯出所有譯文檔案&lt;/g1&gt; 以在任何時候建立已翻譯之文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;g1&gt;&gt; Project&lt;/g1&gt; &lt;g2&gt;&gt; Access Project Contents&lt;/g2&gt; to access the files.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T141935Z" creationid="brlin" creationdate="20260819T141935Z">
+        <seg>使用 &lt;g1&gt;&gt; 專案&lt;/g1&gt; &lt;g2&gt;&gt; 存取專案內容&lt;/g2&gt; 以存取這些檔案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -722,6 +810,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T141542Z" creationid="brlin" creationdate="20260819T141542Z">
         <seg>→ OmegaT 會將該片段註冊進專案的翻譯記憶中，並將游標移動到下一個片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT will store the translated files into the &lt;g0&gt;target&lt;/g0&gt; folder of the project that was created in the first step.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T141848Z" creationid="brlin" creationdate="20260819T141848Z">
+        <seg>→ OmegaT 會將已翻譯的檔案保存進第一步驟所建立之專案的 &lt;g0&gt;target&lt;/g0&gt; 資料夾。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
