@@ -142,10 +142,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Leave the Password empty if you are using an API key.)</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153450Z" creationid="brlin" creationdate="20260830T153450Z">
+        <seg>（如果您正在使用 API 金鑰，請將密碼欄位留空。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Software that does this is called "machine translation".</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150138Z" creationid="brlin" creationdate="20260818T150117Z">
         <seg>（會這樣做的軟體稱為「機器翻譯」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>/Applications/OmegaT.app/Contents/Java/</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153926Z" creationid="brlin" creationdate="20260830T153926Z">
+        <seg>/Applications/OmegaT.app/Contents/Java/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>/opt/omegat/</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153924Z" creationid="brlin" creationdate="20260830T153924Z">
+        <seg>/opt/omegat/</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>API key:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153136Z" creationid="brlin" creationdate="20260830T153136Z">
+        <seg>API 金鑰：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>About</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T150241Z" creationid="brlin" creationdate="20260819T150241Z">
@@ -238,10 +270,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Application Folder</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153746Z" creationid="brlin" creationdate="20260830T153746Z">
+        <seg>應用軟體資料夾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Briac Pilpré</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144055Z" creationid="brlin" creationdate="20260818T144055Z">
         <seg>Briac Pilpré</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C:\Program Files\OmegaT\</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153922Z" creationid="brlin" creationdate="20260830T153922Z">
+        <seg>C:\Program Files\OmegaT\</seg>
       </tuv>
     </tu>
     <tu>
@@ -406,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Email:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153519Z" creationid="brlin" creationdate="20260830T153519Z">
+        <seg>電子郵件地址：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>English version translators</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144141Z" creationid="brlin" creationdate="20260818T144141Z">
@@ -418,6 +474,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144315Z" creationid="brlin" creationdate="20260819T144315Z">
         <seg>錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error while reading MT results</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153132Z" creationid="brlin" creationdate="20260830T153132Z">
+        <seg>在讀取機器翻譯結果時發生錯誤</seg>
       </tuv>
     </tu>
     <tu>
@@ -470,6 +534,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Google API key is not available.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153249Z" creationid="brlin" creationdate="20260830T153249Z">
+        <seg>Google API 金鑰不存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Google Translate v2</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153116Z" creationid="brlin" creationdate="20260830T153116Z">
+        <seg>Google 翻譯 v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hiroshi Miura</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T143904Z" creationid="brlin" creationdate="20260818T143904Z">
@@ -498,6 +578,22 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T151415Z" creationid="brlin" creationdate="20260819T151415Z">
         <seg>How-To 教學文章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IBM Watson</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153341Z" creationid="brlin" creationdate="20260830T153341Z">
+        <seg>IBM Watson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IBM Watson not available.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153419Z" creationid="brlin" creationdate="20260830T153419Z">
+        <seg>IBM Watson 無法使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -606,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep tags in translated text</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153624Z" creationid="brlin" creationdate="20260830T153624Z">
+        <seg>於譯文中保留標籤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keith Godfrey</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T143225Z" creationid="brlin" creationdate="20260818T143225Z">
@@ -634,6 +738,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T143858Z" creationid="brlin" creationdate="20260818T143305Z">
         <seg>首席開發人員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Linux</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153923Z" creationid="brlin" creationdate="20260830T153923Z">
+        <seg>Linux</seg>
       </tuv>
     </tu>
     <tu>
@@ -706,6 +818,38 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150823Z" creationid="brlin" creationdate="20260818T150823Z">
         <seg>Microsoft Office Word、Excel 或 PowerPoint（2007 或以後版本）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Model ID:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153359Z" creationid="brlin" creationdate="20260830T153359Z">
+        <seg>模型識別名稱：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No OAuth token specified</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153652Z" creationid="brlin" creationdate="20260830T153652Z">
+        <seg>沒有設定 OAuth 令牌(token)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No folder ID specified</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153712Z" creationid="brlin" creationdate="20260830T153712Z">
+        <seg>沒有指定 folder 識別名稱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OAuth token</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153615Z" creationid="brlin" creationdate="20260830T153615Z">
+        <seg>OAuth 令牌(token)</seg>
       </tuv>
     </tu>
     <tu>
@@ -790,6 +934,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT's distribution license.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153956Z" creationid="brlin" creationdate="20260830T153956Z">
+        <seg>OmegaT 散布版的授權條款。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT's executable.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T154028Z" creationid="brlin" creationdate="20260830T154028Z">
+        <seg>OmegaT 的可執行檔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT-license.txt</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153937Z" creationid="brlin" creationdate="20260830T153937Z">
+        <seg>OmegaT-license.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T154017Z" creationid="brlin" creationdate="20260830T154017Z">
+        <seg>OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OpenDocument Format (native file format for LibreOffice, Apache OpenOffice)</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150845Z" creationid="brlin" creationdate="20260818T150845Z">
@@ -810,6 +986,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T150334Z" creationid="brlin" creationdate="20260819T150334Z">
         <seg>找不到網頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Password:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153353Z" creationid="brlin" creationdate="20260830T153353Z">
+        <seg>密碼：</seg>
       </tuv>
     </tu>
     <tu>
@@ -960,6 +1144,22 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; chapter for details.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T154107Z" creationid="brlin" creationdate="20260830T154107Z">
+        <seg>詳細資訊參閱 &lt;l0/&gt; 章節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the user manual for instructions.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153327Z" creationid="brlin" creationdate="20260830T153327Z">
+        <seg>設定指示請參閱使用手冊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simultaneous processing of multiple-file projects</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150609Z" creationid="brlin" creationdate="20260818T150609Z">
@@ -1032,6 +1232,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The GPL version 3.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T154015Z" creationid="brlin" creationdate="20260830T154004Z">
+        <seg>第三版 GPL 授權條款。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OmegaT Project</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T150324Z" creationid="brlin" creationdate="20260819T150324Z">
@@ -1052,6 +1260,22 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T143048Z" creationid="brlin" creationdate="20260818T143048Z">
         <seg>OmegaT 專案由一群非正式、國際化之志願者所維護。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The application folder contains the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; application and a number of other important files.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153820Z" creationid="brlin" creationdate="20260830T153820Z">
+        <seg>應用軟體資料夾包含&lt;f0&gt;OmegaT.jar&lt;/f0&gt;應用軟體與數個其他的重要檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The application folder location depends on your platform and on the way you have installed OmegaT.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153903Z" creationid="brlin" creationdate="20260830T153903Z">
+        <seg>應用軟體資料夾的路徑取決於您的作業系統平台與您安裝 OmegaT 的方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1112,6 +1336,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The recommended or default locations are the following:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153919Z" creationid="brlin" creationdate="20260830T153919Z">
+        <seg>推薦或預設的路徑如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151646Z" creationid="brlin" creationdate="20260818T151646Z">
@@ -1140,6 +1372,46 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T141447Z" creationid="brlin" creationdate="20260819T141447Z">
         <seg>輸入第一個片段的翻譯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153408Z" creationid="brlin" creationdate="20260830T153408Z">
+        <seg>URL：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to get result</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153526Z" creationid="brlin" creationdate="20260830T153526Z">
+        <seg>無法獲取結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse IAM service response</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153720Z" creationid="brlin" creationdate="20260830T153720Z">
+        <seg>無法解析 IAM 服務的回應</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse service error report</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153733Z" creationid="brlin" creationdate="20260830T153733Z">
+        <seg>無法解析服務錯誤報告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse translate service response</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153726Z" creationid="brlin" creationdate="20260830T153726Z">
+        <seg>無法解析翻譯服務的回應</seg>
       </tuv>
     </tu>
     <tu>
@@ -1187,6 +1459,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use glossary terms</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153637Z" creationid="brlin" creationdate="20260830T153637Z">
+        <seg>使用詞彙表中的詞彙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Used when launching OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T154050Z" creationid="brlin" creationdate="20260830T154050Z">
+        <seg>在命令列中啟動 OmegaT 時被使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User glossaries with recognition of inflected forms</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150752Z" creationid="brlin" creationdate="20260818T150752Z">
@@ -1207,6 +1495,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151936Z" creationid="brlin" creationdate="20260818T151936Z">
         <seg>使用者肖像照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Username or API key:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153350Z" creationid="brlin" creationdate="20260830T153350Z">
+        <seg>使用者名稱或 API 金鑰：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1239,6 +1535,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144053Z" creationid="brlin" creationdate="20260818T144053Z">
         <seg>網站管理員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153921Z" creationid="brlin" creationdate="20260830T153921Z">
+        <seg>Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -1283,6 +1587,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Yandex.Cloud</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153531Z" creationid="brlin" creationdate="20260830T153531Z">
+        <seg>Yandex.Cloud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You are also free to copy it and pass it on to other people and even modify OmegaT to suit your own requirements.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150308Z" creationid="brlin" creationdate="20260818T150215Z">
@@ -1299,10 +1611,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>changes.txt</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T154110Z" creationid="brlin" creationdate="20260830T154110Z">
+        <seg>changes.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>en</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143142Z" creationid="brlin" creationdate="20260819T135818Z">
         <seg>zh-TW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153925Z" creationid="brlin" creationdate="20260830T153925Z">
+        <seg>macOS</seg>
       </tuv>
     </tu>
     <tu>
@@ -1319,6 +1647,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T151804Z" creationid="brlin" creationdate="20260819T151804Z">
         <seg>未簽名之 macOS 軟體包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>other platforms</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153935Z" creationid="brlin" creationdate="20260830T153935Z">
+        <seg>其他作業系統平台</seg>
       </tuv>
     </tu>
     <tu>
