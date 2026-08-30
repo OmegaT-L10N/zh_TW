@@ -8,7 +8,9 @@
         </mapping>
       </repository>
       <repository type="git" url="https://github.com/OmegaT-L10N/doc_src.git">
-        <mapping local="source/" repository=""/>
+        <mapping local="source/" repository="">
+          <excludes>.github/**</excludes>
+        </mapping>
       </repository>
       <repository type="http" url="https://github.com/omegat-org/omegat/raw/master/">
         <mapping local="source/Bundle.properties" repository="src/main/resources/org/omegat/Bundle.properties"/>
