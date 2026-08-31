@@ -1176,6 +1176,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; window for details.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260831T170550Z" creationid="brlin" creationdate="20260831T170550Z">
+        <seg>詳細資訊參閱 &lt;l0/&gt; 視窗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l2/&gt; preferences for details.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260831T163443Z" creationid="brlin" creationdate="20260831T163443Z">
@@ -1332,6 +1340,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260831T133653Z" creationid="brlin" creationdate="20260831T133653Z">
         <seg>說明文件的資料夾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder where distributed scripts are located.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260831T163518Z" creationid="brlin" creationdate="20260831T163518Z">
+        <seg>被散布的腳本所在的資料夾。</seg>
       </tuv>
     </tu>
     <tu>
