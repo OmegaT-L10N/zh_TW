@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A link to the support page.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260831T133630Z" creationid="brlin" creationdate="20260831T133630Z">
+        <seg>連至支援頁面的連結。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A more detailed &lt;a0&gt;explanation of free software&lt;/a0&gt; can be found on the Free Software Foundation website.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150403Z" creationid="brlin" creationdate="20260818T150247Z">
@@ -298,6 +306,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T140741Z" creationid="brlin" creationdate="20260819T140741Z">
         <seg>變更語言代碼以反映您的來源與目標語言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check it if you need information on OmegaT's evolution.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T161723Z" creationid="brlin" creationdate="20260830T161723Z">
+        <seg>若您需要關於 OmegaT 應用軟體演進的更多資訊時查看它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -450,6 +466,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151746Z" creationid="brlin" creationdate="20260818T151746Z">
         <seg>下載選擇器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each translated user manual comes in a different language folder.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260831T133824Z" creationid="brlin" creationdate="20260831T133824Z">
+        <seg>每個被翻譯的使用手冊以不同語言資料夾的形式呈現。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1160,6 +1184,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simple installation and running instructions.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260831T133646Z" creationid="brlin" creationdate="20260831T133646Z">
+        <seg>簡單的安裝與執行指示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simultaneous processing of multiple-file projects</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150609Z" creationid="brlin" creationdate="20260818T150609Z">
@@ -1280,6 +1312,46 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The documentation distribution license.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T161743Z" creationid="brlin" creationdate="20260830T161743Z">
+        <seg>說明文件散布版的授權條款</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The documentation folder.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260831T133653Z" creationid="brlin" creationdate="20260831T133653Z">
+        <seg>說明文件的資料夾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder where images used by OmegaT are stored.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260831T134015Z" creationid="brlin" creationdate="20260831T133934Z">
+        <seg>被 OmegaT 所使用之圖片檔案所保存的資料夾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder where the libraries used by OmegaT are stored.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260831T134009Z" creationid="brlin" creationdate="20260831T134009Z">
+        <seg>被 OmegaT 所使用之程式庫所保存的資料夾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder where you can install external plugins.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260831T134050Z" creationid="brlin" creationdate="20260831T134050Z">
+        <seg>您可以安裝外部接入元件的資料夾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The freedom to distribute copies of your modified versions to others.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T142842Z" creationid="brlin" creationdate="20260819T142842Z">
@@ -1312,10 +1384,42 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The index to the multilingual user manual.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260831T133557Z" creationid="brlin" creationdate="20260831T133557Z">
+        <seg>多語使用手冊的索引頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The license grants you the following freedoms:</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T142514Z" creationid="brlin" creationdate="20260819T142514Z">
         <seg>此授權條款授予您下列自由：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list of improvements and bug fixes.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T160416Z" creationid="brlin" creationdate="20260830T160416Z">
+        <seg>軟體改進與缺陷修正的清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list of individual contributors.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260831T133722Z" creationid="brlin" creationdate="20260831T133722Z">
+        <seg>個別貢獻者的清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list of libraries used by OmegaT.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260831T133844Z" creationid="brlin" creationdate="20260831T133844Z">
+        <seg>被 OmegaT 使用的程式庫清單。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1619,10 +1723,82 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>contributors.txt</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260831T133657Z" creationid="brlin" creationdate="20260831T133657Z">
+        <seg>contributors.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>doc-license.txt</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T161725Z" creationid="brlin" creationdate="20260830T161725Z">
+        <seg>doc-license.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>docs/</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260831T133648Z" creationid="brlin" creationdate="20260831T133648Z">
+        <seg>docs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>en</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143142Z" creationid="brlin" creationdate="20260819T135818Z">
         <seg>zh-TW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en/</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260831T133734Z" creationid="brlin" creationdate="20260831T133734Z">
+        <seg>en/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>images/</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260831T133845Z" creationid="brlin" creationdate="20260831T133845Z">
+        <seg>images/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>index.html</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260830T161744Z" creationid="brlin" creationdate="20260830T161744Z">
+        <seg>index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>join.html</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260831T133600Z" creationid="brlin" creationdate="20260831T133600Z">
+        <seg>join.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lib/</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260831T133936Z" creationid="brlin" creationdate="20260831T133936Z">
+        <seg>lib/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>libraries.txt</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260831T133826Z" creationid="brlin" creationdate="20260831T133826Z">
+        <seg>libraries.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -1655,6 +1831,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153935Z" creationid="brlin" creationdate="20260830T153935Z">
         <seg>其他作業系統平台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>plugins/</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260831T134016Z" creationid="brlin" creationdate="20260831T134016Z">
+        <seg>plugins/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>readme.txt</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260831T133632Z" creationid="brlin" creationdate="20260831T133632Z">
+        <seg>readme.txt</seg>
       </tuv>
     </tu>
     <tu>
