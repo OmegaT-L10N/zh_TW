@@ -158,6 +158,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- drag and drop files on this pane;
+	- use Project &gt; Add Files...;
+	- use Project &gt; Source Files... and click on Add Files...;
+	- use your file manager to copy files to the 'source' folder,
+	  and then use Project &gt; Reload to reload the project.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T152412Z" creationid="brlin" creationdate="20260901T152412Z">
+        <seg>- 拖放檔案至本面板；
+	- 使用「專案 &gt; 新增檔案…」；
+	- 使用「專案 &gt; 來源檔案…」然後點擊「新增檔案…」；
+	- 使用您的檔案管理器複製檔案至「source」資料夾，
+	  然後使用「專案 &gt; 重新載入」重新載入專案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- verify that their format is supported by OmegaT:
+	  if local filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T153013Z" creationid="brlin" creationdate="20260901T153013Z">
+        <seg>- 檢查它們的檔案格式被 OmegaT 支援：
+	  本地的過濾器設定是否被啟用
+	  使用「專案 &gt; 屬性 &gt; 本地檔案過濾器…」，
+	  或者使用「選項 &gt; 全域檔案過濾器…」；
+	- 在它們的原始應用軟體中開啟並確認它們不是空的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>/Applications/OmegaT.app/Contents/Java/</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153926Z" creationid="brlin" creationdate="20260830T153926Z">
@@ -398,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy error to clipboard</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T153031Z" creationid="brlin" creationdate="20260901T153031Z">
+        <seg>複製錯誤訊息至剪貼簿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cross-platform package, with no JRE</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T151852Z" creationid="brlin" creationdate="20260819T151852Z">
@@ -626,6 +666,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153419Z" creationid="brlin" creationdate="20260830T153419Z">
         <seg>IBM Watson 無法使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the project contains files but their content is not displayed here:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T152432Z" creationid="brlin" creationdate="20260901T152432Z">
+        <seg>如果專案包含檔案但它們的內容沒有出現在這裡：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1480,10 +1528,26 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project is empty</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T153021Z" creationid="brlin" creationdate="20260901T153021Z">
+        <seg>這個專案是空的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The recommended or default locations are the following:</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153919Z" creationid="brlin" creationdate="20260830T153919Z">
         <seg>推薦或預設的路徑如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add files to the project you can:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T150318Z" creationid="brlin" creationdate="20260901T150318Z">
+        <seg>要新增檔案至專案中您可以：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1659,6 +1723,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T153023Z" creationid="brlin" creationdate="20260901T153023Z">
+        <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We could not find the page you are looking for.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T130550Z" creationid="brlin" creationdate="20260818T130550Z">
@@ -1751,6 +1823,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T132636Z" creationid="brlin" creationdate="20260818T132153Z">
         <seg>您或可移駕至&lt;a0&gt;網站首頁&lt;/a0&gt;並在那邊找到您所需的資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your project does not seem to contain translatable files.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T150306Z" creationid="brlin" creationdate="20260901T150306Z">
+        <seg>您的專案似乎不包含可翻譯的檔案。</seg>
       </tuv>
     </tu>
     <tu>
