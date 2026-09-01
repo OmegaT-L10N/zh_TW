@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Source Files</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T155226Z" creationid="brlin" creationdate="20260901T155226Z">
+        <seg>來源檔案(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Leave the Password empty if you are using an API key.)</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153450Z" creationid="brlin" creationdate="20260830T153450Z">
@@ -406,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clo&amp;se</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161257Z" creationid="brlin" creationdate="20260901T161257Z">
+        <seg>關閉(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Close</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T145932Z" creationid="brlin" creationdate="20260818T145932Z">
@@ -566,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Encoding</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T160917Z" creationid="brlin" creationdate="20260901T160917Z">
+        <seg>字元編碼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>English version translators</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144141Z" creationid="brlin" creationdate="20260818T144141Z">
@@ -594,6 +618,30 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T145959Z" creationid="brlin" creationdate="20260901T145959Z">
         <seg>無法複製使用者腳本至 {0}。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filename</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T160751Z" creationid="brlin" creationdate="20260901T160751Z">
+        <seg>檔案名稱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T160913Z" creationid="brlin" creationdate="20260901T160913Z">
+        <seg>過濾器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filter:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161252Z" creationid="brlin" creationdate="20260901T161252Z">
+        <seg>過濾器：</seg>
       </tuv>
     </tu>
     <tu>
@@ -950,6 +998,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Move &amp;Down</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161125Z" creationid="brlin" creationdate="20260901T161125Z">
+        <seg>往下移動(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move &amp;First</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161101Z" creationid="brlin" creationdate="20260901T161101Z">
+        <seg>移動至第一個(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move &amp;Last</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161135Z" creationid="brlin" creationdate="20260901T161135Z">
+        <seg>移動至最後一個(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move &amp;Up</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161118Z" creationid="brlin" creationdate="20260901T161118Z">
+        <seg>往上移動(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No OAuth token specified</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153652Z" creationid="brlin" creationdate="20260830T153652Z">
@@ -962,6 +1042,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153712Z" creationid="brlin" creationdate="20260830T153712Z">
         <seg>沒有指定 folder 識別名稱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Number of unique segments</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161449Z" creationid="brlin" creationdate="20260901T161449Z">
+        <seg>唯一的片段數</seg>
       </tuv>
     </tu>
     <tu>
@@ -1082,6 +1170,54 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260830T154017Z" creationid="brlin" creationdate="20260830T154017Z">
         <seg>OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Source File</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161304Z" creationid="brlin" creationdate="20260901T161304Z">
+        <seg>開啟來源檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Source File Location</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161326Z" creationid="brlin" creationdate="20260901T161326Z">
+        <seg>開啟來源檔案所在位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Target File</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161335Z" creationid="brlin" creationdate="20260901T161335Z">
+        <seg>開啟目標檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Target File Location</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161352Z" creationid="brlin" creationdate="20260901T161352Z">
+        <seg>開啟目標檔案所在位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open {0} Source Files</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161316Z" creationid="brlin" creationdate="20260901T161316Z">
+        <seg>開啟 {0} 個來源檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open {0} Target Files</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161346Z" creationid="brlin" creationdate="20260901T161346Z">
+        <seg>開啟 {0} 個目標檔案</seg>
       </tuv>
     </tu>
     <tu>
@@ -1296,6 +1432,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segments</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T160938Z" creationid="brlin" creationdate="20260901T160938Z">
+        <seg>片段數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simple installation and running instructions.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260831T133646Z" creationid="brlin" creationdate="20260831T133646Z">
@@ -1332,6 +1476,23 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T130534Z" creationid="brlin" creationdate="20260818T130534Z">
         <seg>抱歉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>前面是第幾個來源檔案，後面是來源檔案總數</note>
+      <tuv lang="en">
+        <seg>Source Files ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T160748Z" creationid="brlin" creationdate="20260901T160042Z">
+        <seg>來源檔案（第 {0} 個，共 {1} 個）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files ({0})</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T155330Z" creationid="brlin" creationdate="20260901T155330Z">
+        <seg>來源檔案({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -1608,6 +1769,22 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total number of segments</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161402Z" creationid="brlin" creationdate="20260901T161402Z">
+        <seg>片段總數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated unique segments</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161459Z" creationid="brlin" creationdate="20260901T161459Z">
+        <seg>已翻譯的唯一片段數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tutorials</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T150356Z" creationid="brlin" creationdate="20260819T150356Z">
@@ -1668,6 +1845,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151046Z" creationid="brlin" creationdate="20260818T151046Z">
         <seg>Unicode 支援：可以在多種語言字母與書寫系統使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique segments</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T160958Z" creationid="brlin" creationdate="20260901T160958Z">
+        <seg>唯一的片段數</seg>
       </tuv>
     </tu>
     <tu>
@@ -1859,6 +2044,16 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can find detailed statistic information in the file:
+{0}</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161036Z" creationid="brlin" creationdate="20260901T161036Z">
+        <seg>您可以在下列檔案中找到詳細的統計數據資訊：
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T132636Z" creationid="brlin" creationdate="20260818T132153Z">
@@ -2015,6 +2210,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260831T163447Z" creationid="brlin" creationdate="20260831T163447Z">
         <seg>scripts/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>source_folder_add_files.html</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T155121Z" creationid="brlin" creationdate="20260901T155121Z">
+        <seg>source_folder_add_files.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target_folder_create_translated_files.html</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T155131Z" creationid="brlin" creationdate="20260901T155131Z">
+        <seg>target_folder_create_translated_files.html</seg>
       </tuv>
     </tu>
     <tu>
