@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Preferences...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T164219Z" creationid="brlin" creationdate="20260901T164219Z">
+        <seg>偏好設定…(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Properties...</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161853Z" creationid="brlin" creationdate="20260901T161853Z">
