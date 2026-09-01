@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Edit</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162336Z" creationid="brlin" creationdate="20260901T162336Z">
+        <seg>編輯(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Edit...</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144235Z" creationid="brlin" creationdate="20260819T144235Z">
@@ -150,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Quit</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162322Z" creationid="brlin" creationdate="20260901T162322Z">
+        <seg>結束(&amp;Q)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Remove</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144147Z" creationid="brlin" creationdate="20260819T144147Z">
@@ -170,6 +186,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144118Z" creationid="brlin" creationdate="20260819T144118Z">
         <seg>取代並尋找下一個(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Restart</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162328Z" creationid="brlin" creationdate="20260901T162328Z">
+        <seg>重新啟動(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +434,22 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T155046Z" creationid="brlin" creationdate="20260901T155037Z">
         <seg>新增檔案…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add MediaWiki Pa&amp;ge...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162158Z" creationid="brlin" creationdate="20260901T162158Z">
+        <seg>新增 MediaWiki 頁面…(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162243Z" creationid="brlin" creationdate="20260901T162243Z">
+        <seg>新增 MediaWiki 頁面</seg>
       </tuv>
     </tu>
     <tu>
@@ -734,10 +774,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to copy files</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162300Z" creationid="brlin" creationdate="20260901T162300Z">
+        <seg>無法複製檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to copy user scripts to {0}.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T145959Z" creationid="brlin" creationdate="20260901T145959Z">
         <seg>無法複製使用者腳本至 {0}。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to download page</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162256Z" creationid="brlin" creationdate="20260901T162256Z">
+        <seg>無法下載頁面</seg>
       </tuv>
     </tu>
     <tu>
@@ -1472,6 +1528,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Re&amp;load</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162309Z" creationid="brlin" creationdate="20260901T162309Z">
+        <seg>重新載入(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Re&amp;place All</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143952Z" creationid="brlin" creationdate="20260819T143952Z">
@@ -1949,6 +2013,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T141447Z" creationid="brlin" creationdate="20260819T141447Z">
         <seg>輸入第一個片段的翻譯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162251Z" creationid="brlin" creationdate="20260901T162251Z">
+        <seg>URL</seg>
       </tuv>
     </tu>
     <tu>
