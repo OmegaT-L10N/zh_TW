@@ -97,3 +97,4 @@ bidirectional control character	雙向控制符	unicode中涉及到格式和控�
 bidi control character	雙向控制符	即 bidirectional control character
 Directional Formatting Character	定向格式符	unicode中涉及到格式和控制的 xx character 一般翻譯成 xx-符
 Block	區塊	僅指 unicode block
+user script	使用者腳本
