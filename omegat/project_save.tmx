@@ -326,6 +326,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add Files...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T155046Z" creationid="brlin" creationdate="20260901T155037Z">
+        <seg>新增檔案…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add files to the source folder</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T155106Z" creationid="brlin" creationdate="20260901T155106Z">
+        <seg>新增檔案至來源資料夾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151730Z" creationid="brlin" creationdate="20260818T151730Z">
