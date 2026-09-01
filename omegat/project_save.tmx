@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&amp;Access Project Contents</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161923Z" creationid="brlin" creationdate="20260901T161923Z">
+        <seg>存取專案內容(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Add</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144218Z" creationid="brlin" creationdate="20260819T144218Z">
@@ -54,10 +62,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Current Source File</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162027Z" creationid="brlin" creationdate="20260901T162027Z">
+        <seg>當前的來源檔案(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Dictionaries</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161936Z" creationid="brlin" creationdate="20260901T161936Z">
+        <seg>字典(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Edit...</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144235Z" creationid="brlin" creationdate="20260819T144235Z">
         <seg>編輯…(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Exported TMs</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162019Z" creationid="brlin" creationdate="20260901T162019Z">
+        <seg>已匯出的翻譯記憶(&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Glossaries</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161941Z" creationid="brlin" creationdate="20260901T161941Z">
+        <seg>詞彙表(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Insert</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144258Z" creationid="brlin" creationdate="20260819T144258Z">
@@ -98,6 +138,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143757Z" creationid="brlin" creationdate="20260819T143757Z">
         <seg>確定(&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Properties...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161853Z" creationid="brlin" creationdate="20260901T161853Z">
+        <seg>屬性…(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -122,6 +170,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144118Z" creationid="brlin" creationdate="20260819T144118Z">
         <seg>取代並尋找下一個(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Save</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161658Z" creationid="brlin" creationdate="20260901T161658Z">
+        <seg>新檔(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -154,6 +210,22 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T155226Z" creationid="brlin" creationdate="20260901T155226Z">
         <seg>來源檔案(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Target Files</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161950Z" creationid="brlin" creationdate="20260901T161950Z">
+        <seg>目標檔案(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Writable Glossary</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162043Z" creationid="brlin" creationdate="20260901T162043Z">
+        <seg>可寫的詞彙表(&amp;W)</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C&amp;urrent Target File</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162034Z" creationid="brlin" creationdate="20260901T162034Z">
+        <seg>當前的目標檔案(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C:\Program Files\OmegaT\</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153922Z" creationid="brlin" creationdate="20260830T153922Z">
@@ -426,6 +506,22 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T145932Z" creationid="brlin" creationdate="20260818T145932Z">
         <seg>關閉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Co&amp;mmit Source Files</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161642Z" creationid="brlin" creationdate="20260901T161642Z">
+        <seg>提交來源檔案(&amp;M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Comm&amp;it Target Files</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161651Z" creationid="brlin" creationdate="20260901T161651Z">
+        <seg>提交目標檔案(&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -490,6 +586,30 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T153031Z" creationid="brlin" creationdate="20260901T153031Z">
         <seg>複製錯誤訊息至剪貼簿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create &amp;Translated Files</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161712Z" creationid="brlin" creationdate="20260901T161712Z">
+        <seg>建立已翻譯檔案(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Current Translate&amp;d File</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161725Z" creationid="brlin" creationdate="20260901T161725Z">
+        <seg>建立當前的已翻譯檔案(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create MED Project...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161754Z" creationid="brlin" creationdate="20260901T161754Z">
+        <seg>建立 MED 專案…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1174,6 +1294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open MED Project...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161745Z" creationid="brlin" creationdate="20260901T161745Z">
+        <seg>開啟 MED 專案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open Source File</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161304Z" creationid="brlin" creationdate="20260901T161304Z">
@@ -1234,6 +1362,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T143221Z" creationid="brlin" creationdate="20260818T143221Z">
         <seg>OmegaT 應用軟體的原始作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;roject Folder</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161930Z" creationid="brlin" creationdate="20260901T161930Z">
+        <seg>專案資料夾(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1472,6 +1608,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So&amp;urce Files...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161917Z" creationid="brlin" creationdate="20260901T161917Z">
+        <seg>來源檔案…(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sorry</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T130534Z" creationid="brlin" creationdate="20260818T130534Z">
@@ -1525,6 +1669,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151053Z" creationid="brlin" creationdate="20260818T151053Z">
         <seg>右至左(RTL)語言支援</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162005Z" creationid="brlin" creationdate="20260901T162005Z">
+        <seg>T&amp;Ms</seg>
       </tuv>
     </tu>
     <tu>
