@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Cycle</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T164831Z" creationid="brlin" creationdate="20260901T164831Z">
+        <seg>循環切換(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Dictionaries</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161936Z" creationid="brlin" creationdate="20260901T161936Z">
@@ -158,6 +166,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Machine Translation</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T164301Z" creationid="brlin" creationdate="20260901T164301Z">
+        <seg>機器翻譯(&amp;M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;New...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T164645Z" creationid="brlin" creationdate="20260901T164645Z">
+        <seg>新建…(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143757Z" creationid="brlin" creationdate="20260819T143757Z">
@@ -178,6 +202,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T164219Z" creationid="brlin" creationdate="20260901T164219Z">
         <seg>偏好設定…(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Project</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T164631Z" creationid="brlin" creationdate="20260901T164631Z">
+        <seg>專案(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1786,8 +1818,8 @@ everything.</seg>
       <tuv lang="en">
         <seg>Se&amp;lect Source Text</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162541Z" creationid="brlin" creationdate="20260901T162541Z">
-        <seg>選取來源文字(&amp;L)</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T164547Z" creationid="brlin" creationdate="20260901T162541Z">
+        <seg>選取來源字串(&amp;L)</seg>
       </tuv>
     </tu>
     <tu>
