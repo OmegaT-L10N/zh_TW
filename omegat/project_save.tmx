@@ -1905,9 +1905,9 @@ Info: OmegaT-6.1.1_0_9a3f59119 (started on 2026年9月1日 CST) Locale zh-TW</no
         <seg>{0}
 {1} (started on {2} {3}) Locale {4}</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T150138Z" creationid="brlin" creationdate="20260901T150138Z">
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T150228Z" creationid="brlin" creationdate="20260901T150138Z">
         <seg>{0}
-{1} (started on {2} {3}) Locale {4}</seg>
+{1}（於 {2} {3} 啟動）語言系統：{4}</seg>
       </tuv>
     </tu>
     <tu>
