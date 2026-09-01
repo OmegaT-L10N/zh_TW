@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Add Files...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T154959Z" creationid="brlin" creationdate="20260901T154959Z">
+        <seg>新增檔案…(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Add...</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144211Z" creationid="brlin" creationdate="20260819T144211Z">
@@ -298,6 +306,22 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T150241Z" creationid="brlin" creationdate="20260819T150241Z">
         <seg>關於</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add &amp;Files...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T154831Z" creationid="brlin" creationdate="20260901T154831Z">
+        <seg>新增檔案…(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T154857Z" creationid="brlin" creationdate="20260901T154857Z">
+        <seg>新增檔案至來源資料夾…</seg>
       </tuv>
     </tu>
     <tu>
