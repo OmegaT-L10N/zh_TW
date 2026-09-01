@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to copy user scripts to {0}.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T145959Z" creationid="brlin" creationdate="20260901T145959Z">
+        <seg>無法複製使用者腳本至 {0}。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find Ne&amp;xt</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144043Z" creationid="brlin" creationdate="20260819T144043Z">
