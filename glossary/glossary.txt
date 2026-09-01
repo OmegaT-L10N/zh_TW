@@ -99,3 +99,4 @@ Directional Formatting Character	定向格式符	unicode中涉及到格式和控
 Block	區塊	僅指 unicode block
 user script	使用者腳本
 team project	協作專案
+source text	來源字串	text 採 string 之翻譯
