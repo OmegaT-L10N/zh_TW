@@ -1693,8 +1693,8 @@ https://omegat.sourceforge.io/manual-standard/en/chapter.panes.html#panes.editor
       <tuv lang="en">
         <seg>Number of unique segments</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161449Z" creationid="brlin" creationdate="20260901T161449Z">
-        <seg>唯一的片段數</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174523Z" creationid="brlin" creationdate="20260901T161449Z">
+        <seg>唯一的區段數</seg>
       </tuv>
     </tu>
     <tu>
@@ -2199,8 +2199,8 @@ everything.</seg>
       <tuv lang="en">
         <seg>Segments</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T160938Z" creationid="brlin" creationdate="20260901T160938Z">
-        <seg>片段數</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174548Z" creationid="brlin" creationdate="20260901T160938Z">
+        <seg>區段數</seg>
       </tuv>
     </tu>
     <tu>
@@ -2656,8 +2656,8 @@ everything.</seg>
       <tuv lang="en">
         <seg>Translated unique segments</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161459Z" creationid="brlin" creationdate="20260901T161459Z">
-        <seg>已翻譯的唯一片段數</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174532Z" creationid="brlin" creationdate="20260901T161459Z">
+        <seg>已翻譯的唯一區段數</seg>
       </tuv>
     </tu>
     <tu>
@@ -2764,8 +2764,8 @@ https://omegat.sourceforge.io/manual-standard/en/chapter.panes.html#panes.editor
       <tuv lang="en">
         <seg>Unique segments</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T160958Z" creationid="brlin" creationdate="20260901T160958Z">
-        <seg>唯一的片段數</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174556Z" creationid="brlin" creationdate="20260901T160958Z">
+        <seg>唯一的區段數</seg>
       </tuv>
     </tu>
     <tu>
