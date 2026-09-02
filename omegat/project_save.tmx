@@ -1416,8 +1416,8 @@
       <tuv lang="en">
         <seg>It now displays them segment per segment for you to translate them.</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T141435Z" creationid="brlin" creationdate="20260819T141435Z">
-        <seg>它現在會逐片段陳列這些內容讓您去翻譯它們。</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174709Z" creationid="brlin" creationdate="20260819T141435Z">
+        <seg>它現在會逐區段陳列這些內容讓您去翻譯它們。</seg>
       </tuv>
     </tu>
     <tu>
