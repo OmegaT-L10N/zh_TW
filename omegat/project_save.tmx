@@ -470,6 +470,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--/--</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T172527Z" creationid="brlin" creationdate="20260902T172527Z">
+        <seg>--/--</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T172714Z" creationid="brlin" creationdate="20260902T172714Z">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>/Applications/OmegaT.app/Contents/Java/</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153926Z" creationid="brlin" creationdate="20260830T153926Z">
@@ -870,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do you really want to quit?</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T172636Z" creationid="brlin" creationdate="20260902T172636Z">
+        <seg>您真的要退出嗎？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do&amp;wnload Team Project...</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T163050Z" creationid="brlin" creationdate="20260901T163050Z">
@@ -1002,6 +1026,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162256Z" creationid="brlin" creationdate="20260901T162256Z">
         <seg>無法下載頁面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T173313Z" creationid="brlin" creationdate="20260902T173313Z">
+        <seg>檔案內：已翻譯 / 區段總數（專案內：唯一已翻譯 / 唯一，分段總數）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1150,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>INS</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T172523Z" creationid="brlin" creationdate="20260902T172523Z">
+        <seg>插入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the project contains files but their content is not displayed here:</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T152432Z" creationid="brlin" creationdate="20260901T152432Z">
@@ -1282,6 +1322,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T143240Z" creationid="brlin" creationdate="20260818T143240Z">
         <seg>Jean-Christophe Helary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Jumping to last edited segment...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T173343Z" creationid="brlin" creationdate="20260902T173343Z">
+        <seg>跳到上個編輯過的區段…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1519,6 +1567,14 @@ https://omegat.sourceforge.io/manual-standard/en/chapter.panes.html#panes.editor
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153615Z" creationid="brlin" creationdate="20260830T153615Z">
         <seg>OAuth 令牌(token)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OVR</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T172521Z" creationid="brlin" creationdate="20260902T172521Z">
+        <seg>覆寫</seg>
       </tuv>
     </tu>
     <tu>
@@ -2158,6 +2214,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source/translation length (characters)</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T172712Z" creationid="brlin" creationdate="20260902T172712Z">
+        <seg>原文/譯文長度（字元數）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sponsorship</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T151526Z" creationid="brlin" creationdate="20260819T151526Z">
@@ -2442,6 +2506,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161459Z" creationid="brlin" creationdate="20260901T161459Z">
         <seg>已翻譯的唯一片段數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation last modified by {0} on {1} at {2}</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T173705Z" creationid="brlin" creationdate="20260902T173434Z">
+        <seg>翻譯上次於 {1} {2} 被 {1} 修改</seg>
       </tuv>
     </tu>
     <tu>
@@ -2903,6 +2975,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>segment 0000</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T173357Z" creationid="brlin" creationdate="20260902T173357Z">
+        <seg>區段 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>source_folder_add_files.html</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T155121Z" creationid="brlin" creationdate="20260901T155121Z">
@@ -2928,6 +3008,14 @@ Info: OmegaT-6.1.1_0_9a3f59119 (started on 2026年9月1日 CST) Locale zh-TW</no
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T150228Z" creationid="brlin" creationdate="20260901T150138Z">
         <seg>{0}
 {1}（於 {2} {3} 啟動）語言系統：{4}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T172939Z" creationid="brlin" creationdate="20260902T172825Z">
+        <seg>{0}（剩餘 {1}）/ {2}（剩餘 {3}），{4}</seg>
       </tuv>
     </tu>
     <tu>
