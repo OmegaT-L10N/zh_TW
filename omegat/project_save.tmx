@@ -1312,7 +1312,7 @@
       <note>游標鎖定功能狀態，參閱：
 https://omegat.sourceforge.io/manual-standard/en/chapter.panes.html#panes.editor.cursor.lock
 
-這邊取「游標鎖定功能作用中」的簡稱「鎖定」以吻合原文風格。使用者可透過 tooltip 得知關於該狀態列欄位之更多資訊。</note>
+這邊取「游標鎖定功能作用中」的簡稱「鎖定」以吻合原文風格。使用者可透過 tooltip 跟使用手冊對應章節得知關於該狀態列欄位之更多資訊。</note>
       <tuv lang="en">
         <seg>LCK</seg>
       </tuv>
