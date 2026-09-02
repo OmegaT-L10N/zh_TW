@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&amp;About...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174349Z" creationid="brlin" creationdate="20260902T174349Z">
+        <seg>關於(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Access Project Contents</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161923Z" creationid="brlin" creationdate="20260901T161923Z">
@@ -46,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Auto-Completion</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174024Z" creationid="brlin" creationdate="20260902T174024Z">
+        <seg>自動完成(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Back in History</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260902T170100Z" creationid="brlin" creationdate="20260902T170100Z">
@@ -58,6 +74,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143803Z" creationid="brlin" creationdate="20260819T143803Z">
         <seg>取消(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Check for Updates...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174424Z" creationid="brlin" creationdate="20260902T174424Z">
+        <seg>檢查更新…(&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -170,6 +194,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260902T154012Z" creationid="brlin" creationdate="20260902T154012Z">
         <seg>前往(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Help</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174332Z" creationid="brlin" creationdate="20260902T174332Z">
+        <seg>說明(&amp;H)</seg>
       </tuv>
     </tu>
     <tu>
@@ -358,10 +390,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174035Z" creationid="brlin" creationdate="20260902T174035Z">
+        <seg>自動顯示相關建議(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Show Replacements</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143942Z" creationid="brlin" creationdate="20260819T143942Z">
         <seg>顯示取代項目(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Show relevant suggestions automatically</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174445Z" creationid="brlin" creationdate="20260902T174445Z">
+        <seg>自動顯示相關建議(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -402,6 +450,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162344Z" creationid="brlin" creationdate="20260901T162344Z">
         <seg>復原(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;User Manual...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174340Z" creationid="brlin" creationdate="20260902T174340Z">
+        <seg>使用手冊…(&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access &amp;Configuration Folder</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174256Z" creationid="brlin" creationdate="20260902T174256Z">
+        <seg>存取設定目錄(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add &amp;Files...</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T154831Z" creationid="brlin" creationdate="20260901T154831Z">
@@ -658,6 +722,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153746Z" creationid="brlin" creationdate="20260830T153746Z">
         <seg>應用軟體資料夾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-Completion</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174454Z" creationid="brlin" creationdate="20260902T174454Z">
+        <seg>自動完成</seg>
       </tuv>
     </tu>
     <tu>
@@ -882,6 +954,22 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T141239Z" creationid="brlin" creationdate="20260819T141239Z">
         <seg>關閉視窗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displa&amp;y Whitespace</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T173854Z" creationid="brlin" creationdate="20260902T173854Z">
+        <seg>顯示空白字元(&amp;Y)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Non-Breakable Spaces</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T173907Z" creationid="brlin" creationdate="20260902T173907Z">
+        <seg>顯示不斷行空白字元(&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1118,6 +1206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174243Z" creationid="brlin" creationdate="20260902T174243Z">
+        <seg>全域檔案過濾器…(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Google API key is not available.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153249Z" creationid="brlin" creationdate="20260830T153249Z">
@@ -1138,6 +1234,22 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T143904Z" creationid="brlin" creationdate="20260818T143904Z">
         <seg>Hiroshi Miura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History &amp;Completion</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174123Z" creationid="brlin" creationdate="20260902T174109Z">
+        <seg>歷史自動完成結果(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History &amp;Prediction</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174150Z" creationid="brlin" creationdate="20260902T174150Z">
+        <seg>歷史與預測(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1362,6 +1474,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144119Z" creationid="brlin" creationdate="20260818T144119Z">
         <seg>Kos Ivantsov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>L&amp;og...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174412Z" creationid="brlin" creationdate="20260902T174412Z">
+        <seg>運行紀錄…(&amp;O)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2001,6 +2121,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162734Z" creationid="brlin" creationdate="20260901T162734Z">
         <seg>切換大小寫至(&amp;W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sample Text</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T173751Z" creationid="brlin" creationdate="20260902T173751Z">
+        <seg>範例文字</seg>
       </tuv>
     </tu>
     <tu>
@@ -2649,6 +2777,14 @@ The current setting is {0}MB;</seg>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144648Z" creationid="brlin" creationdate="20260819T144648Z">
         <seg>在命令列或於 OmegaT 啟動腳本中使用「java -Xmx&lt;MiB-單位大小&gt;M -jar OmegaT.jar」命令；
 目前的設定是 {0}MB；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;Fuzzy Matching</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174016Z" creationid="brlin" creationdate="20260902T174016Z">
+        <seg>使用模糊配對(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
