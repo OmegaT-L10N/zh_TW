@@ -1,5 +1,4 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
-segment	片段
 History Completion	歷史完成
 History Prediction	歷史預測
 term	詞彙	詞彙表中的條目
@@ -99,4 +98,4 @@ Block	區塊	僅指 unicode block
 user script	使用者腳本
 team project	協作專案
 source text	來源字串	text 採 string 之翻譯
-Segment	分節
+segment	區段
