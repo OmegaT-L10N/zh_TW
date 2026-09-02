@@ -2461,6 +2461,18 @@ everything.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>游標鎖定功能狀態，參閱：
+https://omegat.sourceforge.io/manual-standard/en/chapter.panes.html#panes.editor.cursor.lock
+
+這邊取「游標鎖定解除」的簡稱「解鎖」以吻合原文風格。使用者可透過 tooltip 跟使用手冊對應章節得知關於該狀態列欄位之更多資訊。</note>
+      <tuv lang="en">
+        <seg>UNL</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T172436Z" creationid="brlin" creationdate="20260902T172436Z">
+        <seg>解鎖</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>URL</seg>
       </tuv>
