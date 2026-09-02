@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Back in History</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T170100Z" creationid="brlin" creationdate="20260902T170100Z">
+        <seg>前一個歷史項目(&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143803Z" creationid="brlin" creationdate="20260819T143803Z">
@@ -138,6 +146,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144130Z" creationid="brlin" creationdate="20260819T144130Z">
         <seg>完成(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Forward in History</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T170111Z" creationid="brlin" creationdate="20260902T170111Z">
+        <seg>後一個歷史項目(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -626,6 +642,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153746Z" creationid="brlin" creationdate="20260830T153746Z">
         <seg>應用軟體資料夾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-Popu&amp;lated Segments</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T170229Z" creationid="brlin" creationdate="20260902T170207Z">
+        <seg>自動填入譯文的區段(&amp;L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1282,6 +1306,18 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144119Z" creationid="brlin" creationdate="20260818T144119Z">
         <seg>Kos Ivantsov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>游標鎖定功能狀態，參閱：
+https://omegat.sourceforge.io/manual-standard/en/chapter.panes.html#panes.editor.cursor.lock
+
+這邊取「游標鎖定功能作用中」的簡稱「鎖定」以吻合原文風格。</note>
+      <tuv lang="en">
+        <seg>LCK</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T172114Z" creationid="brlin" creationdate="20260902T172114Z">
+        <seg>鎖定</seg>
       </tuv>
     </tu>
     <tu>
@@ -2110,6 +2146,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T151907Z" creationid="brlin" creationdate="20260819T151907Z">
         <seg>原始程式碼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source of Selected &amp;Match</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T170012Z" creationid="brlin" creationdate="20260902T170012Z">
+        <seg>被選取的配對的原文(&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
