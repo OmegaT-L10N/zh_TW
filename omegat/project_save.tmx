@@ -2648,8 +2648,8 @@ everything.</seg>
       <tuv lang="en">
         <seg>Total number of segments</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161402Z" creationid="brlin" creationdate="20260901T161402Z">
-        <seg>片段總數</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174605Z" creationid="brlin" creationdate="20260901T161402Z">
+        <seg>區段總數</seg>
       </tuv>
     </tu>
     <tu>
