@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Go To</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T154012Z" creationid="brlin" creationdate="20260902T154012Z">
+        <seg>前往(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Insert</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144258Z" creationid="brlin" creationdate="20260819T144258Z">
@@ -182,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Next Segment</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T154153Z" creationid="brlin" creationdate="20260902T154153Z">
+        <seg>下一個分節(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143757Z" creationid="brlin" creationdate="20260819T143757Z">
@@ -202,6 +218,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T164219Z" creationid="brlin" creationdate="20260901T164219Z">
         <seg>偏好設定…(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Previous Segment</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T154159Z" creationid="brlin" creationdate="20260902T154159Z">
+        <seg>前一個分節(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1390,6 +1414,23 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Next &amp;Translated Segment</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T154145Z" creationid="brlin" creationdate="20260902T154145Z">
+        <seg>下一個已翻譯的分節(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next &amp;Untranslated Segment</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T154137Z" creationid="brlin" creationdate="20260902T154137Z">
+        <seg>下一個未翻譯翻譯的分節(&amp;U)
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No OAuth token specified</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153652Z" creationid="brlin" creationdate="20260830T153652Z">
@@ -1752,6 +1793,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remo&amp;ve Translation</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T153504Z" creationid="brlin" creationdate="20260902T153504Z">
+        <seg>移除譯文(&amp;V)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162454Z" creationid="brlin" creationdate="20260901T162454Z">
@@ -1884,6 +1933,78 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T160938Z" creationid="brlin" creationdate="20260901T160938Z">
         <seg>片段數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &amp;Next Match</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T144159Z" creationid="brlin" creationdate="20260902T144159Z">
+        <seg>選取下一個配對(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &amp;Previous Match</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T144207Z" creationid="brlin" creationdate="20260902T144207Z">
+        <seg>選取前一個配對(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Mat&amp;ch</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T144140Z" creationid="brlin" creationdate="20260902T144140Z">
+        <seg>選取配對(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #&amp;1</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T144218Z" creationid="brlin" creationdate="20260902T144218Z">
+        <seg>選取配對 #&amp;1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #&amp;2</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T144225Z" creationid="brlin" creationdate="20260902T144225Z">
+        <seg>選取配對 #&amp;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #&amp;3</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T144231Z" creationid="brlin" creationdate="20260902T144231Z">
+        <seg>選取配對 #&amp;3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #&amp;4</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T144237Z" creationid="brlin" creationdate="20260902T144237Z">
+        <seg>選取配對 #&amp;4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #&amp;5</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T144244Z" creationid="brlin" creationdate="20260902T144244Z">
+        <seg>選取配對 #&amp;5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set Empty Translation</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T153519Z" creationid="brlin" creationdate="20260902T153519Z">
+        <seg>設定空的譯文</seg>
       </tuv>
     </tu>
     <tu>
