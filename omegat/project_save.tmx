@@ -192,8 +192,8 @@
       <tuv lang="en">
         <seg>&amp;Next Segment</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T154153Z" creationid="brlin" creationdate="20260902T154153Z">
-        <seg>下一個分節(&amp;N)</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T165725Z" creationid="brlin" creationdate="20260902T154153Z">
+        <seg>下一個區段(&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -224,8 +224,8 @@
       <tuv lang="en">
         <seg>&amp;Previous Segment</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T154159Z" creationid="brlin" creationdate="20260902T154159Z">
-        <seg>前一個分節(&amp;P)</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T165712Z" creationid="brlin" creationdate="20260902T154159Z">
+        <seg>前一個區段(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -322,6 +322,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162708Z" creationid="brlin" creationdate="20260901T162708Z">
         <seg>搜尋…(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Segment Number...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T165846Z" creationid="brlin" creationdate="20260902T165835Z">
+        <seg>區段編號…(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1416,17 +1424,33 @@
       <tuv lang="en">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T154145Z" creationid="brlin" creationdate="20260902T154145Z">
-        <seg>下一個已翻譯的分節(&amp;T)</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T165751Z" creationid="brlin" creationdate="20260902T154145Z">
+        <seg>下一個已翻譯的區段(&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Next &amp;Untranslated Segment</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T154137Z" creationid="brlin" creationdate="20260902T154137Z">
-        <seg>下一個未翻譯翻譯的分節(&amp;U)
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T165758Z" creationid="brlin" creationdate="20260902T154137Z">
+        <seg>下一個未翻譯的區段(&amp;U)
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next N&amp;ote</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T165815Z" creationid="brlin" creationdate="20260902T165815Z">
+        <seg>下一個注記(&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next Uni&amp;que Segment</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T165909Z" creationid="brlin" creationdate="20260902T165909Z">
+        <seg>下一個唯一的區段(&amp;Q)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1733,6 +1757,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150903Z" creationid="brlin" creationdate="20260818T150903Z">
         <seg>强大的工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pre&amp;vious Note</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T165824Z" creationid="brlin" creationdate="20260902T165824Z">
+        <seg>前一個注記(&amp;V)</seg>
       </tuv>
     </tu>
     <tu>
