@@ -75,7 +75,6 @@ validator	驗證器	統一使用，避免使用 校驗器 檢驗器 等。
 Open XML	Open XML	指 Microsoft Office2013開始的 Open XML 格式（.docx等），專有名詞，維持原樣。
 Segmentation	分割	建議統一
 translation memory	翻譯記憶
-Segment	片段
 Delimitation	界定	發現有這種譯法……先新增上吧。
 segmentation	分割
 Microsoft	Microsoft	MS官方網站中各處都是使用原文而不用微軟，與其維持一致。
@@ -100,3 +99,4 @@ Block	區塊	僅指 unicode block
 user script	使用者腳本
 team project	協作專案
 source text	來源字串	text 採 string 之翻譯
+Segment	分節
