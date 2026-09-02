@@ -1424,8 +1424,8 @@
       <tuv lang="en">
         <seg>It will also create an empty translation memory that it will fill in the background, one segment at as time as you type your translation.</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T141049Z" creationid="brlin" creationdate="20260819T141049Z">
-        <seg>它另外也會建立一個會在您逐片段輸入您的翻譯期間在背景逐漸填入資料之空翻譯記憶空間。</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174615Z" creationid="brlin" creationdate="20260819T141049Z">
+        <seg>它另外也會建立一個會在您逐區段輸入您的翻譯期間在背景逐漸填入資料之空翻譯記憶空間。</seg>
       </tuv>
     </tu>
     <tu>
