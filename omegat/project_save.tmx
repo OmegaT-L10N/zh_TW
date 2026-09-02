@@ -1086,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Font</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T173729Z" creationid="brlin" creationdate="20260902T173729Z">
+        <seg>字型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Freedoms</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T142012Z" creationid="brlin" creationdate="20260819T142012Z">
@@ -1374,6 +1382,14 @@ https://omegat.sourceforge.io/manual-standard/en/chapter.panes.html#panes.editor
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T150239Z" creationid="brlin" creationdate="20260819T150239Z">
         <seg>語言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Last modified by {0}</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T173719Z" creationid="brlin" creationdate="20260902T173719Z">
+        <seg>上次被 {0} 所修改</seg>
       </tuv>
     </tu>
     <tu>
@@ -2161,6 +2177,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T145340Z" creationid="brlin" creationdate="20260818T145340Z">
         <seg>自本專案創立以來，它得到了數十位其他貢獻者的支持，族繁不及備載，但我們對他們的協助銘感五內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Size</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T173731Z" creationid="brlin" creationdate="20260902T173731Z">
+        <seg>大小</seg>
       </tuv>
     </tu>
     <tu>
@@ -2995,6 +3019,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T155131Z" creationid="brlin" creationdate="20260901T155131Z">
         <seg>target_folder_create_translated_files.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>unknown</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T173722Z" creationid="brlin" creationdate="20260902T173722Z">
+        <seg>未知</seg>
       </tuv>
     </tu>
     <tu>
