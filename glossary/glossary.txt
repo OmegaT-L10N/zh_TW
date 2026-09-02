@@ -86,7 +86,6 @@ load	載入
 reload	重新載入
 search	搜尋
 autotext	自動文字
-file filter	檔案篩選器
 Tag shortcut	標籤簡寫	指的是OmegaT進行標籤保護時自動將諸如<item>變成灰色的<i0>這樣的行為，後者即為tag shortcut
 Panel	面板	似乎和Pane（窗格）是一回事，例如 editor Panel，之前稱為 editor Pane。
 Unicode literals	Unicode 編碼文字
@@ -99,3 +98,5 @@ user script	使用者腳本
 team project	協作專案
 source text	來源字串	text 採 string 之翻譯
 segment	區段
+file filter	檔案過濾器
+match	配對
