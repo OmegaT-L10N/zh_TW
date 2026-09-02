@@ -3262,8 +3262,8 @@ Info: OmegaT-6.1.1_0_9a3f59119 (started on 2026年9月1日 CST) Locale zh-TW</no
       <tuv lang="en">
         <seg>→ OmegaT will register that segment into the project translation memory and will move the cursor to the next segment.</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T141542Z" creationid="brlin" creationdate="20260819T141542Z">
-        <seg>→ OmegaT 會將該片段註冊進專案的翻譯記憶中，並將游標移動到下一個片段。</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174729Z" creationid="brlin" creationdate="20260819T141542Z">
+        <seg>→ OmegaT 會將該區段註冊進專案的翻譯記憶中，並將游標移動到下一個區段。</seg>
       </tuv>
     </tu>
     <tu>
