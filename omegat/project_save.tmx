@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>#Files</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173805Z" creationid="brlin" creationdate="20260903T173805Z">
+        <seg>#Files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;About...</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174349Z" creationid="brlin" creationdate="20260902T174349Z">
@@ -46,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Align Files...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T171229Z" creationid="brlin" creationdate="20260903T171229Z">
+        <seg>對齊檔案(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143809Z" creationid="brlin" creationdate="20260819T143809Z">
@@ -66,6 +82,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260902T170100Z" creationid="brlin" creationdate="20260902T170100Z">
         <seg>前一個歷史項目(&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Browse...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174729Z" creationid="brlin" creationdate="20260903T174729Z">
+        <seg>瀏覽…(&amp;B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -138,6 +162,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144235Z" creationid="brlin" creationdate="20260819T144235Z">
         <seg>編輯…(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Editor...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T172625Z" creationid="brlin" creationdate="20260903T172625Z">
+        <seg>編輯器…(&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,10 +262,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Last Changes...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T172724Z" creationid="brlin" creationdate="20260903T172724Z">
+        <seg>近期變更…(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Machine Translation</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T164301Z" creationid="brlin" creationdate="20260901T164301Z">
         <seg>機器翻譯(&amp;M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Match Statistics</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T171122Z" creationid="brlin" creationdate="20260903T171122Z">
+        <seg>配對統計數據(&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
@@ -248,8 +296,8 @@
       <tuv lang="en">
         <seg>&amp;Next Segment</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T165725Z" creationid="brlin" creationdate="20260902T154153Z">
-        <seg>下一個區段(&amp;N)</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150406Z" creationid="brlin" creationdate="20260902T154153Z">
+        <seg>下一個分節(&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -270,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Options</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T172602Z" creationid="brlin" creationdate="20260903T172602Z">
+        <seg>選項(&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Preferences...</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T164219Z" creationid="brlin" creationdate="20260901T164219Z">
@@ -280,8 +336,8 @@
       <tuv lang="en">
         <seg>&amp;Previous Segment</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T165712Z" creationid="brlin" creationdate="20260902T154159Z">
-        <seg>前一個區段(&amp;P)</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150406Z" creationid="brlin" creationdate="20260902T154159Z">
+        <seg>前一個分節(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -384,8 +440,8 @@
       <tuv lang="en">
         <seg>&amp;Segment Number...</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T165846Z" creationid="brlin" creationdate="20260902T165835Z">
-        <seg>區段編號…(&amp;S)</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150406Z" creationid="brlin" creationdate="20260902T165835Z">
+        <seg>分節編號…(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -430,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Statistics</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T171109Z" creationid="brlin" creationdate="20260903T171109Z">
+        <seg>統計數據(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Target Files</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161950Z" creationid="brlin" creationdate="20260901T161950Z">
@@ -442,6 +506,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162845Z" creationid="brlin" creationdate="20260901T162845Z">
         <seg>詞首字母大寫(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Tools</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T171029Z" creationid="brlin" creationdate="20260903T171029Z">
+        <seg>工具(&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -550,6 +622,111 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+	  Source- or target-language tokenizer to use (overrides project
+	  settings).</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T170156Z" creationid="brlin" creationdate="20260903T170156Z">
+        <seg>--ITokenizer=&lt;類別名稱&gt;
+	--ITokenizerTarget=&lt;類別名稱&gt;
+	  要使用的來源或目標語言詞元化器(tokenizer)（覆寫專案
+	  設定）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--config-dir=&lt;path&gt;
+	  The folder used to read or write OmegaT configuration files.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T170322Z" creationid="brlin" creationdate="20260903T170322Z">
+        <seg>--config-dir=&lt;路徑&gt;
+	  用於讀取或寫入 OmegaT 設定檔的資料夾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--config-file=&lt;path&gt;
+	  A Java .properties file from which to load default settings.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T170255Z" creationid="brlin" creationdate="20260903T170255Z">
+        <seg>--config-file=&lt;路徑&gt;
+	  讀取預設設定的 Java .properties 檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-location-save
+	  Do not remember the last folder opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T170012Z" creationid="brlin" creationdate="20260903T170012Z">
+        <seg>--disable-location-save
+	  不要記住檔案選取對話框中上個被打開的資料夾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-project-locking
+	  Do not attempt to lock the omegat.project file.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T165902Z" creationid="brlin" creationdate="20260903T165902Z">
+        <seg>--disable-project-locking
+	  不要嘗試鎖定 omegat.project 檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=[console mode name]
+	  Specify a mode other than the GUI default.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T170514Z" creationid="brlin" creationdate="20260903T170501Z">
+        <seg>--mode=[console mode name]
+	  指定圖形操作界面預設值以外的模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--no-team
+	  Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T151634Z" creationid="brlin" creationdate="20260903T151634Z">
+        <seg>--no-team
+	  禁用團隊專案功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--remote-project
+	  Download an omegat.project file from the URL given as &lt;project
+	  path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T151616Z" creationid="brlin" creationdate="20260903T151605Z">
+        <seg>--remote-project
+	  自指定的 URL 載入 omegat.project 檔案至 &lt;專案路徑&gt;並載入專案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for the interface text.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T170410Z" creationid="brlin" creationdate="20260903T170410Z">
+        <seg>--resource-bundle=&lt;路徑&gt;
+	  用於操作界面文字的 Java .properties 檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-h, --help
+	  Print this help message.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T151459Z" creationid="brlin" creationdate="20260903T151459Z">
+        <seg>-h, --help
+	  印出本幫助訊息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>/Applications/OmegaT.app/Contents/Java/</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153926Z" creationid="brlin" creationdate="20260830T153926Z">
@@ -578,6 +755,38 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144515Z" creationid="brlin" creationdate="20260819T144515Z">
         <seg>2) 增加 OmegaT 可用的主記憶體量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>50%-74%:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174211Z" creationid="brlin" creationdate="20260903T174211Z">
+        <seg>50%-74%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>75%-84%:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174210Z" creationid="brlin" creationdate="20260903T174210Z">
+        <seg>75%-84%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>85%-94%:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174209Z" creationid="brlin" creationdate="20260903T174209Z">
+        <seg>85%-94%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>95%-100%:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174207Z" creationid="brlin" creationdate="20260903T174207Z">
+        <seg>95%-100%:</seg>
       </tuv>
     </tu>
     <tu>
@@ -734,6 +943,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Arrays must not be null</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174240Z" creationid="brlin" creationdate="20260903T174240Z">
+        <seg>陣列不能是空的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-Completion</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174454Z" creationid="brlin" creationdate="20260902T174454Z">
@@ -744,8 +961,8 @@
       <tuv lang="en">
         <seg>Auto-Popu&amp;lated Segments</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T170229Z" creationid="brlin" creationdate="20260902T170207Z">
-        <seg>自動填入譯文的區段(&amp;L)</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150406Z" creationid="brlin" creationdate="20260902T170207Z">
+        <seg>自動填入譯文的分節(&amp;L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -754,6 +971,22 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144055Z" creationid="brlin" creationdate="20260818T144055Z">
         <seg>Briac Pilpré</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Browse&amp;...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174747Z" creationid="brlin" creationdate="20260903T174747Z">
+        <seg>[fuzzy]瀏覽…(&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C&amp;opy All Data to Clipboard</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174119Z" creationid="brlin" creationdate="20260903T174119Z">
+        <seg>複製所有資料至剪貼簿(&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -774,6 +1007,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot access glossary folder!</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173458Z" creationid="brlin" creationdate="20260903T173458Z">
+        <seg>無法存取詞彙表資料夾！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot create folder for translated files:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173512Z" creationid="brlin" creationdate="20260903T173512Z">
+        <seg>無法建立放置已翻譯檔案用得資料夾：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Change the language codes to reflect your source and target languages.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T140741Z" creationid="brlin" creationdate="20260819T140741Z">
@@ -782,10 +1031,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173755Z" creationid="brlin" creationdate="20260903T173755Z">
+        <seg>字元數（包含空白）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173748Z" creationid="brlin" creationdate="20260903T173748Z">
+        <seg>字元數（不包含空白）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check &amp;Issues...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T171035Z" creationid="brlin" creationdate="20260903T171035Z">
+        <seg>檢查問題…(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check Issues for &amp;Current File</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T171048Z" creationid="brlin" creationdate="20260903T171048Z">
+        <seg>檢查當前檔案之問題(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check it if you need information on OmegaT's evolution.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260830T161723Z" creationid="brlin" creationdate="20260830T161723Z">
         <seg>若您需要關於 OmegaT 應用軟體演進的更多資訊時查看它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check whether this is intentional.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150148Z" creationid="brlin" creationdate="20260903T150148Z">
+        <seg>請檢查其是否蓄意為之。</seg>
       </tuv>
     </tu>
     <tu>
@@ -838,6 +1127,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Committing source files</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150022Z" creationid="brlin" creationdate="20260903T150022Z">
+        <seg>正在提交來源檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Committing target files</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150030Z" creationid="brlin" creationdate="20260903T150030Z">
+        <seg>正在提交目標檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Compatibility</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T151620Z" creationid="brlin" creationdate="20260819T151620Z">
@@ -850,6 +1155,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151205Z" creationid="brlin" creationdate="20260818T151205Z">
         <seg>透過像是 TMX、TTX、TXML、XLIFF、SDLXLIFF 等資料交換格式與其他翻譯記憶軟體相容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Completed and current translations saved as {0}</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173303Z" creationid="brlin" creationdate="20260903T173303Z">
+        <seg>已完成且當前的翻譯被保存為 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -902,6 +1215,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Could not create project dir at {0}</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173424Z" creationid="brlin" creationdate="20260903T173424Z">
+        <seg>無法在 {0} 建立專案資料夾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162657Z" creationid="brlin" creationdate="20260901T162657Z">
@@ -934,6 +1255,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating translated files: {0}</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173328Z" creationid="brlin" creationdate="20260903T173328Z">
+        <seg>正在建立已翻譯的檔案：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cross-platform package, with no JRE</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T151852Z" creationid="brlin" creationdate="20260819T151852Z">
@@ -950,10 +1279,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cursor locked</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T151126Z" creationid="brlin" creationdate="20260903T151126Z">
+        <seg>游標已鎖定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cursor unlocked</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T151134Z" creationid="brlin" creationdate="20260903T151134Z">
+        <seg>游標已解鎖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Developers</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144124Z" creationid="brlin" creationdate="20260818T144124Z">
         <seg>開發者們</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dictionaries folder:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174357Z" creationid="brlin" creationdate="20260903T174357Z">
+        <seg>字典資料夾：</seg>
       </tuv>
     </tu>
     <tu>
@@ -992,8 +1345,8 @@
       <tuv lang="en">
         <seg>Do&amp;wnload Team Project...</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260901T163050Z" creationid="brlin" creationdate="20260901T163050Z">
-        <seg>下載協作專案…(&amp;W)</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T165551Z" creationid="brlin" creationdate="20260901T163050Z">
+        <seg>下載團隊專案…(&amp;W)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1038,6 +1391,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Downloading project...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173030Z" creationid="brlin" creationdate="20260903T173030Z">
+        <seg>正在下載專案…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>E&amp;xclusions...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174744Z" creationid="brlin" creationdate="20260903T174744Z">
+        <seg>排除規則…(&amp;X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>E&amp;xport Selection</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162614Z" creationid="brlin" creationdate="20260901T162614Z">
@@ -1070,6 +1439,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable them in Preferences &gt; Saving and Output....</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174718Z" creationid="brlin" creationdate="20260903T174718Z">
+        <seg>於「偏好設定 &gt; 儲存與輸出」章節啟用它們…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Encoding</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T160917Z" creationid="brlin" creationdate="20260901T160917Z">
@@ -1086,10 +1463,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the segment number:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150209Z" creationid="brlin" creationdate="20260903T150209Z">
+        <seg>請輸入分節編號：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144315Z" creationid="brlin" creationdate="20260819T144315Z">
         <seg>錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error creating project!</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173056Z" creationid="brlin" creationdate="20260903T173056Z">
+        <seg>建立專案期間發生錯誤！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error monitoring post-processing commands!</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173719Z" creationid="brlin" creationdate="20260903T173719Z">
+        <seg>監控後處理命令時發生錯誤！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error saving project file!</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173047Z" creationid="brlin" creationdate="20260903T173047Z">
+        <seg>儲存專案檔期間發生錯誤！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error starting post-processing commands: {0}</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173600Z" creationid="brlin" creationdate="20260903T173600Z">
+        <seg>執行後處理命令時發生錯誤：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1110,6 +1527,62 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exact match:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174205Z" creationid="brlin" creationdate="20260903T174205Z">
+        <seg>精確配對：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Executing post-processing commands...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173532Z" creationid="brlin" creationdate="20260903T173532Z">
+        <seg>正在執行後處理命令…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exit code {0}: "{1}"</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173638Z" creationid="brlin" creationdate="20260903T173638Z">
+        <seg>結束狀態碼：{0}：「{1}」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exit code: {0}</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173624Z" creationid="brlin" creationdate="20260903T173624Z">
+        <seg>結束狀態碼：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export translation memories folder:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174411Z" creationid="brlin" creationdate="20260903T174411Z">
+        <seg>匯出翻譯記憶資料夾：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to commit source files!</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150011Z" creationid="brlin" creationdate="20260903T150011Z">
+        <seg>無法提交來源檔案！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to commit target files!</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150016Z" creationid="brlin" creationdate="20260903T150016Z">
+        <seg>無法提交目標檔案！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to copy files</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162300Z" creationid="brlin" creationdate="20260901T162300Z">
@@ -1126,10 +1599,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to create project!</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173414Z" creationid="brlin" creationdate="20260903T173414Z">
+        <seg>無法建立專案！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to create the translated files!</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T145858Z" creationid="brlin" creationdate="20260903T145858Z">
+        <seg>無法建立被翻譯的檔案！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to download page</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162256Z" creationid="brlin" creationdate="20260901T162256Z">
         <seg>無法下載頁面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load the project because the specified source folder contains a symbolic or hard link that points back to itself or one of its subfolders.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T145744Z" creationid="brlin" creationdate="20260903T145744Z">
+        <seg>因指定來源資料夾包含指向自己或其子資料夾的象徵式或硬式連結而載入專案失敗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1158,10 +1655,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to update project properties</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150116Z" creationid="brlin" creationdate="20260903T150116Z">
+        <seg>無法更新專案屬性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173852Z" creationid="brlin" creationdate="20260903T173852Z">
+        <seg>檔案名稱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File locations</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174305Z" creationid="brlin" creationdate="20260903T174305Z">
+        <seg>檔案位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File {0}: {1}</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174229Z" creationid="brlin" creationdate="20260903T174229Z">
+        <seg>檔案 {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T173313Z" creationid="brlin" creationdate="20260902T173313Z">
-        <seg>檔案內：已翻譯 / 區段總數（專案內：唯一已翻譯 / 唯一，分段總數）</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150406Z" creationid="brlin" creationdate="20260902T173313Z">
+        <seg>檔案內：已翻譯 / 分節總數（專案內：唯一已翻譯 / 唯一，分段總數）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1214,10 +1743,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Folder {0} was automatically created for team mode project</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173128Z" creationid="brlin" creationdate="20260903T173128Z">
+        <seg>用於團隊模式專案的 {0} 資料被被自動建立</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Font</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260902T173729Z" creationid="brlin" creationdate="20260902T173729Z">
         <seg>字型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For all files:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174234Z" creationid="brlin" creationdate="20260903T174234Z">
+        <seg>所有檔案：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1246,10 +1791,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global &amp;Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T172618Z" creationid="brlin" creationdate="20260903T172618Z">
+        <seg>全域分節規則…(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global File &amp;Filters...</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174243Z" creationid="brlin" creationdate="20260902T174243Z">
         <seg>全域檔案過濾器…(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries folder:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174349Z" creationid="brlin" creationdate="20260903T174349Z">
+        <seg>詞彙表資料夾：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Segment</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150216Z" creationid="brlin" creationdate="20260903T150216Z">
+        <seg>移動至分節</seg>
       </tuv>
     </tu>
     <tu>
@@ -1358,6 +1927,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If invoked in a git working tree or svn checkout, the results
+	  will be staged/added.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T165843Z" creationid="brlin" creationdate="20260903T165843Z">
+        <seg>如果程式是在一個 git 作業目錄樹或是 svn 檢出文件中被執行，
+	  執行結果會被移進新修訂版準備區域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the project contains files but their content is not displayed here:</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T152432Z" creationid="brlin" creationdate="20260901T152432Z">
@@ -1374,10 +1953,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Individual File Statistics:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173847Z" creationid="brlin" creationdate="20260903T173847Z">
+        <seg>個別檔案統計數字：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T165648Z" creationid="brlin" creationdate="20260903T151732Z">
+        <seg>使用指定的語言初始化一個最小化的團隊專案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260819T143449Z" creationid="brlin" creationdate="20260819T143407Z">
-        <seg>已初始化 {0}-{1} 協作專案。</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T165551Z" creationid="brlin" creationdate="20260819T143407Z">
+        <seg>已初始化 {0}-{1} 團隊專案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1386,6 +1981,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162620Z" creationid="brlin" creationdate="20260901T162620Z">
         <seg>插入缺少的標籤(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Mode</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T151141Z" creationid="brlin" creationdate="20260903T151141Z">
+        <seg>插入模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -1410,6 +2013,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T150259Z" creationid="brlin" creationdate="20260819T150259Z">
         <seg>安裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insufficient permissions for project dir {0}</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173444Z" creationid="brlin" creationdate="20260903T173444Z">
+        <seg>於 {0} 專案資料夾存取權限不足</seg>
       </tuv>
     </tu>
     <tu>
@@ -1464,16 +2075,16 @@
       <tuv lang="en">
         <seg>It now displays them segment per segment for you to translate them.</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174709Z" creationid="brlin" creationdate="20260819T141435Z">
-        <seg>它現在會逐區段陳列這些內容讓您去翻譯它們。</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150406Z" creationid="brlin" creationdate="20260819T141435Z">
+        <seg>它現在會逐分節陳列這些內容讓您去翻譯它們。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>It will also create an empty translation memory that it will fill in the background, one segment at as time as you type your translation.</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174615Z" creationid="brlin" creationdate="20260819T141049Z">
-        <seg>它另外也會建立一個會在您逐區段輸入您的翻譯期間在背景逐漸填入資料之空翻譯記憶空間。</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150406Z" creationid="brlin" creationdate="20260819T141049Z">
+        <seg>它另外也會建立一個會在您逐分節輸入您的翻譯期間在背景逐漸填入資料之空翻譯記憶空間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1496,8 +2107,8 @@
       <tuv lang="en">
         <seg>Jumping to last edited segment...</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T173343Z" creationid="brlin" creationdate="20260902T173343Z">
-        <seg>跳到上個編輯過的區段…</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150406Z" creationid="brlin" creationdate="20260902T173343Z">
+        <seg>跳到上個編輯過的分節…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1594,10 +2205,90 @@ https://omegat.sourceforge.io/manual-standard/en/chapter.panes.html#panes.editor
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Loading TMX files...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173237Z" creationid="brlin" creationdate="20260903T173237Z">
+        <seg>正在載入 TMX 檔案…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loading project...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173034Z" creationid="brlin" creationdate="20260903T173034Z">
+        <seg>正在載入專案…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loading: {0}</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173134Z" creationid="brlin" creationdate="20260903T173134Z">
+        <seg>正在載入：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174312Z" creationid="brlin" creationdate="20260903T174312Z">
+        <seg>本地檔案過濾器(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local Segmentation R&amp;ules...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174320Z" creationid="brlin" creationdate="20260903T174320Z">
+        <seg>本地分節規則(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174601Z" creationid="brlin" creationdate="20260903T174601Z">
+        <seg>本地後處理命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands (disabled):</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174627Z" creationid="brlin" creationdate="20260903T174627Z">
+        <seg>本地後處理命令（已停用）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands are disabled and will not be executed.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174653Z" creationid="brlin" creationdate="20260903T174653Z">
+        <seg>本地後處理命令被禁用且不再會被執行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Localization manager, user group owner</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144117Z" creationid="brlin" creationdate="20260818T144117Z">
         <seg>軟體在地化管理員、使用者群組擁有者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure all links are outside the source folder and subfolders.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T145849Z" creationid="brlin" creationdate="20260903T145822Z">
+        <seg>請確定所有連結均在來源資料夾或其子資料夾之外。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure you have the correct permissions or that you can access the files if they are stored in the cloud.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T145545Z" creationid="brlin" creationdate="20260903T145545Z">
+        <seg>請確定您有正確的存取權限或如果檔案保存在雲端上的話您可以存取這些檔案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1614,6 +2305,30 @@ https://omegat.sourceforge.io/manual-standard/en/chapter.panes.html#panes.editor
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T152724Z" creationid="brlin" creationdate="20260819T152724Z">
         <seg>標示詞彙表吻合項目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match Statistics</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174132Z" creationid="brlin" creationdate="20260903T174132Z">
+        <seg>配對統計數據</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match Statistics per &amp;File</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T171203Z" creationid="brlin" creationdate="20260903T171151Z">
+        <seg>個別檔案之配對統計數據(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match Statistics per File</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174140Z" creationid="brlin" creationdate="20260903T174140Z">
+        <seg>個別檔案之配對統計數據</seg>
       </tuv>
     </tu>
     <tu>
@@ -1658,6 +2373,14 @@ https://omegat.sourceforge.io/manual-standard/en/chapter.panes.html#panes.editor
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>More</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T151035Z" creationid="brlin" creationdate="20260903T151035Z">
+        <seg>更多</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Move &amp;Down</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161125Z" creationid="brlin" creationdate="20260901T161125Z">
@@ -1692,16 +2415,16 @@ https://omegat.sourceforge.io/manual-standard/en/chapter.panes.html#panes.editor
       <tuv lang="en">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T165751Z" creationid="brlin" creationdate="20260902T154145Z">
-        <seg>下一個已翻譯的區段(&amp;T)</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150406Z" creationid="brlin" creationdate="20260902T154145Z">
+        <seg>下一個已翻譯的分節(&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Next &amp;Untranslated Segment</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T165758Z" creationid="brlin" creationdate="20260902T154137Z">
-        <seg>下一個未翻譯的區段(&amp;U)
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150406Z" creationid="brlin" creationdate="20260902T154137Z">
+        <seg>下一個未翻譯的分節(&amp;U)
 </seg>
       </tuv>
     </tu>
@@ -1717,8 +2440,8 @@ https://omegat.sourceforge.io/manual-standard/en/chapter.panes.html#panes.editor
       <tuv lang="en">
         <seg>Next Uni&amp;que Segment</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T165909Z" creationid="brlin" creationdate="20260902T165909Z">
-        <seg>下一個唯一的區段(&amp;Q)</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150406Z" creationid="brlin" creationdate="20260902T165909Z">
+        <seg>下一個唯一的分節(&amp;Q)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1739,10 +2462,26 @@ https://omegat.sourceforge.io/manual-standard/en/chapter.panes.html#panes.editor
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No match:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174214Z" creationid="brlin" creationdate="20260903T174214Z">
+        <seg>無配對：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No option: Launch GUI.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T151417Z" creationid="brlin" creationdate="20260903T151417Z">
+        <seg>無命令選項：啟動圖形操作界面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Number of unique segments</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174523Z" creationid="brlin" creationdate="20260901T161449Z">
-        <seg>唯一的區段數</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150406Z" creationid="brlin" creationdate="20260901T161449Z">
+        <seg>唯一的分節數</seg>
       </tuv>
     </tu>
     <tu>
@@ -1843,6 +2582,14 @@ https://omegat.sourceforge.io/manual-standard/en/chapter.panes.html#panes.editor
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT options:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T151406Z" creationid="brlin" creationdate="20260903T151406Z">
+        <seg>OmegaT 命令選項：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT ran out of memory and will close when you click OK.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144431Z" creationid="brlin" creationdate="20260819T144431Z">
@@ -1895,6 +2642,14 @@ https://omegat.sourceforge.io/manual-standard/en/chapter.panes.html#panes.editor
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161745Z" creationid="brlin" creationdate="20260901T161745Z">
         <seg>開啟 MED 專案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Project</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174334Z" creationid="brlin" creationdate="20260903T174334Z">
+        <seg>開啟專案</seg>
       </tuv>
     </tu>
     <tu>
@@ -1955,10 +2710,34 @@ https://omegat.sourceforge.io/manual-standard/en/chapter.panes.html#panes.editor
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174301Z" creationid="brlin" creationdate="20260903T174301Z">
+        <seg>選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Original author of the OmegaT application</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T143221Z" creationid="brlin" creationdate="20260818T143221Z">
         <seg>OmegaT 應用軟體的原始作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Orphan segment</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173523Z" creationid="brlin" creationdate="20260903T173523Z">
+        <seg>被遺棄的分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overwrite Mode</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T151138Z" creationid="brlin" creationdate="20260903T151138Z">
+        <seg>覆寫模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -2037,6 +2816,38 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Post-processing command failed.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173653Z" creationid="brlin" creationdate="20260903T173653Z">
+        <seg>後處理命令執行失敗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands completed.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173611Z" creationid="brlin" creationdate="20260903T173611Z">
+        <seg>已完成執行後處理命令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands failed.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173647Z" creationid="brlin" creationdate="20260903T173647Z">
+        <seg>後處理命令執行失敗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands were interrupted.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173707Z" creationid="brlin" creationdate="20260903T173707Z">
+        <seg>後處理命令被中斷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Powerful tools</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150903Z" creationid="brlin" creationdate="20260818T150903Z">
@@ -2061,10 +2872,42 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project Properties</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174255Z" creationid="brlin" creationdate="20260903T174255Z">
+        <seg>專案屬性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project Statistics</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173723Z" creationid="brlin" creationdate="20260903T173723Z">
+        <seg>專案統計數據</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project manager</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T143236Z" creationid="brlin" creationdate="20260818T143236Z">
         <seg>專案管理員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project path only: Launch GUI and load specified project.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T151442Z" creationid="brlin" creationdate="20260903T151442Z">
+        <seg>只有列舉專案路徑：啟動圖形操作界面並載入指定的專案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project saved</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T151119Z" creationid="brlin" creationdate="20260903T151119Z">
+        <seg>專案已儲存</seg>
       </tuv>
     </tu>
     <tu>
@@ -2117,10 +2960,82 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reload the project?</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T151108Z" creationid="brlin" creationdate="20260903T151108Z">
+        <seg>要重新載入專案嗎？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174056Z" creationid="brlin" creationdate="20260903T174056Z">
+        <seg>剩餘字元數（包含空白）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174017Z" creationid="brlin" creationdate="20260903T174017Z">
+        <seg>剩餘字元數（不包含空白）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Segments</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173912Z" creationid="brlin" creationdate="20260903T173912Z">
+        <seg>剩餘分節數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Words</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173936Z" creationid="brlin" creationdate="20260903T173936Z">
+        <seg>剩餘字數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173816Z" creationid="brlin" creationdate="20260903T173816Z">
+        <seg>剩餘：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remo&amp;ve Translation</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260902T153504Z" creationid="brlin" creationdate="20260902T153504Z">
         <seg>移除譯文(&amp;V)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove ta&amp;gs</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174553Z" creationid="brlin" creationdate="20260903T174553Z">
+        <seg>移除標記(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated segments: {0}</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150238Z" creationid="brlin" creationdate="20260903T150238Z">
+        <seg>已重複之分節數：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repetitions:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174143Z" creationid="brlin" creationdate="20260903T174143Z">
+        <seg>重複：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2197,10 +3112,34 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Saving project...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T151114Z" creationid="brlin" creationdate="20260903T151114Z">
+        <seg>正在儲存專案…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scriptin&amp;g...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T172552Z" creationid="brlin" creationdate="20260903T172552Z">
+        <seg>自動化腳本…(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Se&amp;lect Source Text</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T164547Z" creationid="brlin" creationdate="20260901T162541Z">
         <seg>選取來源字串(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Se&amp;ntence-level segmenting</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174251Z" creationid="brlin" creationdate="20260903T174251Z">
+        <seg>句子層級分節(&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2225,6 +3164,30 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T142450Z" creationid="brlin" creationdate="20260819T142450Z">
         <seg>參閱 &lt;g1&gt;&gt; 說明&lt;/g1&gt; &lt;g2&gt;&gt; 關於 OmegaT&lt;/g2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Help &gt; User Manual for details, including available Java options.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T151359Z" creationid="brlin" creationdate="20260903T151359Z">
+        <seg>參閱「說明 &gt; 使用手冊」以查看更多資訊，包含可用的 Java 命令選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T170232Z" creationid="brlin" creationdate="20260903T170232Z">
+        <seg>有效值請參閱 OmegaT.jar/META-INF/MANIFEST.MF 檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See below for details.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T170552Z" creationid="brlin" creationdate="20260903T170552Z">
+        <seg>詳細資訊如下所示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2261,10 +3224,18 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segment {0}</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T151033Z" creationid="brlin" creationdate="20260903T150311Z">
+        <seg>分節 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segments</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174548Z" creationid="brlin" creationdate="20260901T160938Z">
-        <seg>區段數</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150406Z" creationid="brlin" creationdate="20260901T160938Z">
+        <seg>分節數</seg>
       </tuv>
     </tu>
     <tu>
@@ -2430,6 +3401,54 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source file loading complete</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173144Z" creationid="brlin" creationdate="20260903T173144Z">
+        <seg>來源檔案載入完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source files committed</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150027Z" creationid="brlin" creationdate="20260903T150027Z">
+        <seg>來源檔案已提交</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source files folder:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174339Z" creationid="brlin" creationdate="20260903T174339Z">
+        <seg>來源檔案資料夾：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source files language:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174437Z" creationid="brlin" creationdate="20260903T174437Z">
+        <seg>來源檔案語言：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source files loaded but skipping files(s) by filter error(s)</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173231Z" creationid="brlin" creationdate="20260903T173231Z">
+        <seg>來源檔案已載入但跳過了發生過濾器錯誤的檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source language tokenizer:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174526Z" creationid="brlin" creationdate="20260903T174526Z">
+        <seg>來源檔案分詞元器(tokenizer)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source of Selected &amp;Match</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260902T170012Z" creationid="brlin" creationdate="20260902T170012Z">
@@ -2450,6 +3469,22 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T151526Z" creationid="brlin" creationdate="20260819T151526Z">
         <seg>贊助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start new project.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173310Z" creationid="brlin" creationdate="20260903T173310Z">
+        <seg>開始新的專案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Statistics</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174124Z" creationid="brlin" creationdate="20260903T174124Z">
+        <seg>統計數據</seg>
       </tuv>
     </tu>
     <tu>
@@ -2482,6 +3517,38 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162005Z" creationid="brlin" creationdate="20260901T162005Z">
         <seg>T&amp;Ms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMX Level 1</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174427Z" creationid="brlin" creationdate="20260903T174427Z">
+        <seg>第一級 TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMX Level 2</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174433Z" creationid="brlin" creationdate="20260903T174433Z">
+        <seg>第二級 TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target files committed</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150035Z" creationid="brlin" creationdate="20260903T150035Z">
+        <seg>目標檔案已提交</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target language tokenizer:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174538Z" creationid="brlin" creationdate="20260903T174538Z">
+        <seg>目標語言分詞元器(tokenizer)：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2710,6 +3777,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are no Git settings in the remote project file.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150137Z" creationid="brlin" creationdate="20260903T150137Z">
+        <seg>遠端專案檔案不存在 Git 相關設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add files to the project you can:</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T150318Z" creationid="brlin" creationdate="20260901T150318Z">
@@ -2734,18 +3809,90 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174049Z" creationid="brlin" creationdate="20260903T174049Z">
+        <seg>總字元數（包含空白）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174005Z" creationid="brlin" creationdate="20260903T174005Z">
+        <seg>總字元數（不包含空白）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Segments</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173905Z" creationid="brlin" creationdate="20260903T173905Z">
+        <seg>總分節數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Words</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173932Z" creationid="brlin" creationdate="20260903T173932Z">
+        <seg>總字數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total number of segments</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174605Z" creationid="brlin" creationdate="20260901T161402Z">
-        <seg>區段總數</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150406Z" creationid="brlin" creationdate="20260901T161402Z">
+        <seg>分節總數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173726Z" creationid="brlin" creationdate="20260903T173726Z">
+        <seg>總共：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated file created</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173359Z" creationid="brlin" creationdate="20260903T173346Z">
+        <seg>已建立已翻譯的檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files created</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173336Z" creationid="brlin" creationdate="20260903T173336Z">
+        <seg>已翻譯的檔案已建立</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files folder:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174403Z" creationid="brlin" creationdate="20260903T174403Z">
+        <seg>已翻譯檔案資料夾：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files language:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174443Z" creationid="brlin" creationdate="20260903T174443Z">
+        <seg>翻譯檔案語言：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Translated unique segments</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174532Z" creationid="brlin" creationdate="20260901T161459Z">
-        <seg>已翻譯的唯一區段數</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150406Z" creationid="brlin" creationdate="20260901T161459Z">
+        <seg>已翻譯的唯一分節數</seg>
       </tuv>
     </tu>
     <tu>
@@ -2754,6 +3901,22 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260902T173705Z" creationid="brlin" creationdate="20260902T173434Z">
         <seg>翻譯上次於 {1} {2} 被 {1} 修改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memories folder:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174344Z" creationid="brlin" creationdate="20260903T174344Z">
+        <seg>翻譯記憶資料夾：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memories to export:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174421Z" creationid="brlin" creationdate="20260903T174421Z">
+        <seg>要匯出的翻譯記憶：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2768,8 +3931,8 @@ everything.</seg>
       <tuv lang="en">
         <seg>Type the translation of the first segment.</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174717Z" creationid="brlin" creationdate="20260819T141447Z">
-        <seg>輸入第一個區段的翻譯。</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150406Z" creationid="brlin" creationdate="20260819T141447Z">
+        <seg>輸入第一個分節的翻譯。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2798,6 +3961,22 @@ https://omegat.sourceforge.io/manual-standard/en/chapter.panes.html#panes.editor
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153408Z" creationid="brlin" creationdate="20260830T153408Z">
         <seg>URL：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to build new TMX file!</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173410Z" creationid="brlin" creationdate="20260903T173410Z">
+        <seg>無法建構新的 TMX 檔案！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to create the translated files due to missing or damaged tags.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T145933Z" creationid="brlin" creationdate="20260903T145928Z">
+        <seg>因闕漏或毀損的文件標籤而無法建立被翻譯的檔案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2850,10 +4029,82 @@ https://omegat.sourceforge.io/manual-standard/en/chapter.panes.html#panes.editor
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unique Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174102Z" creationid="brlin" creationdate="20260903T174102Z">
+        <seg>唯一字元數（包含空白）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174029Z" creationid="brlin" creationdate="20260903T174029Z">
+        <seg>唯一字元數（不包含空白）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174110Z" creationid="brlin" creationdate="20260903T174110Z">
+        <seg>唯一剩餘字元數（包含空白）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174043Z" creationid="brlin" creationdate="20260903T174043Z">
+        <seg>唯一剩餘字元數（不包含空白）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Segments</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173928Z" creationid="brlin" creationdate="20260903T173928Z">
+        <seg>唯一剩餘分節數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Words</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173944Z" creationid="brlin" creationdate="20260903T173944Z">
+        <seg>唯一剩餘字數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Segments</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173918Z" creationid="brlin" creationdate="20260903T173918Z">
+        <seg>唯一分節數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Words</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173938Z" creationid="brlin" creationdate="20260903T173938Z">
+        <seg>唯一字數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unique segments</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174556Z" creationid="brlin" creationdate="20260901T160958Z">
-        <seg>唯一的區段數</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150406Z" creationid="brlin" creationdate="20260901T160958Z">
+        <seg>唯一的分節數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T151305Z" creationid="brlin" creationdate="20260903T151305Z">
+        <seg>使用方式：java -jar [&lt;java 命令選項&gt;] OmegaT.jar [&lt;OmegaT 命令選項&gt;] [&lt;專案路徑&gt;]</seg>
       </tuv>
     </tu>
     <tu>
@@ -2901,10 +4152,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use Tools &gt; Check Issues... to correct the tag errors and try again.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150005Z" creationid="brlin" creationdate="20260903T150005Z">
+        <seg>使用「工具 &gt; 檢查問題…」來修正標籤錯誤並再重試一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use glossary terms</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153637Z" creationid="brlin" creationdate="20260830T153637Z">
         <seg>使用詞彙表中的詞彙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use local &amp;segmentation rules</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174331Z" creationid="brlin" creationdate="20260903T174331Z">
+        <seg>使用本地分節規則(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3021,10 +4288,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Words</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173734Z" creationid="brlin" creationdate="20260903T173734Z">
+        <seg>字數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Work with more than 30 file formats</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T150807Z" creationid="brlin" creationdate="20260818T150807Z">
         <seg>支援 30 種以上的檔案格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writable glossary file:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174353Z" creationid="brlin" creationdate="20260903T174353Z">
+        <seg>可寫詞彙檔：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3067,6 +4350,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T132636Z" creationid="brlin" creationdate="20260818T132153Z">
         <seg>您或可移駕至&lt;a0&gt;網站首頁&lt;/a0&gt;並在那邊找到您所需的資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must enter a number between 1 and {0}.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T151058Z" creationid="brlin" creationdate="20260903T151058Z">
+        <seg>您必須輸入介於 1 跟 {0} 之間的數字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3225,8 +4516,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>segment 0000</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T173357Z" creationid="brlin" creationdate="20260902T173357Z">
-        <seg>區段 0000</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150406Z" creationid="brlin" creationdate="20260902T173357Z">
+        <seg>分節 0000</seg>
       </tuv>
     </tu>
     <tu>
@@ -3243,6 +4534,16 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T155131Z" creationid="brlin" creationdate="20260901T155131Z">
         <seg>target_folder_create_translated_files.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>team init &lt;source language&gt; &lt;target language&gt;
+	  Team project tool.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T151704Z" creationid="brlin" creationdate="20260903T151704Z">
+        <seg>team init &lt;來源語言&gt; &lt;目標語言&gt;
+	  團隊專案工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3350,8 +4651,8 @@ Info: OmegaT-6.1.1_0_9a3f59119 (started on 2026年9月1日 CST) Locale zh-TW</no
       <tuv lang="en">
         <seg>→ OmegaT will register that segment into the project translation memory and will move the cursor to the next segment.</seg>
       </tuv>
-      <tuv lang="zh-TW" changeid="brlin" changedate="20260902T174729Z" creationid="brlin" creationdate="20260819T141542Z">
-        <seg>→ OmegaT 會將該區段註冊進專案的翻譯記憶中，並將游標移動到下一個區段。</seg>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150406Z" creationid="brlin" creationdate="20260819T141542Z">
+        <seg>→ OmegaT 會將該分節註冊進專案的翻譯記憶中，並將游標移動到下一個分節。</seg>
       </tuv>
     </tu>
     <tu>
