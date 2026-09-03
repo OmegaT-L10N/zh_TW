@@ -967,6 +967,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>B&amp;rowse...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174830Z" creationid="brlin" creationdate="20260903T174830Z">
+        <seg>瀏覽…(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Briac Pilpré</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T144055Z" creationid="brlin" creationdate="20260818T144055Z">
@@ -975,9 +983,41 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bro&amp;wse...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174818Z" creationid="brlin" creationdate="20260903T174818Z">
+        <seg>瀏覽…(&amp;W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brow&amp;se...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174824Z" creationid="brlin" creationdate="20260903T174824Z">
+        <seg>瀏覽…(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brows&amp;e...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174852Z" creationid="brlin" creationdate="20260903T174852Z">
+        <seg>瀏覽…(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Browse&amp;...</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174810Z" creationid="brlin" creationdate="20260903T174747Z">
+        <seg>瀏覽…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Browse...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174837Z" creationid="brlin" creationdate="20260903T174837Z">
         <seg>瀏覽…</seg>
       </tuv>
     </tu>
@@ -1075,6 +1115,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150148Z" creationid="brlin" creationdate="20260903T150148Z">
         <seg>請檢查其是否蓄意為之。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose MED project</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T175023Z" creationid="brlin" creationdate="20260903T175023Z">
+        <seg>選擇 MED 專案</seg>
       </tuv>
     </tu>
     <tu>
@@ -1255,6 +1303,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create Project Folder</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T175016Z" creationid="brlin" creationdate="20260903T175016Z">
+        <seg>建立專案資料夾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating translated files: {0}</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173328Z" creationid="brlin" creationdate="20260903T173328Z">
@@ -1307,6 +1363,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174357Z" creationid="brlin" creationdate="20260903T174357Z">
         <seg>字典資料夾：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dictionary Files Folder</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174932Z" creationid="brlin" creationdate="20260903T174932Z">
+        <seg>字典檔資料夾</seg>
       </tuv>
     </tu>
     <tu>
@@ -1555,6 +1619,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173624Z" creationid="brlin" creationdate="20260903T173624Z">
         <seg>結束狀態碼：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174929Z" creationid="brlin" creationdate="20260903T174929Z">
+        <seg>匯出翻譯記憶檔案資料夾</seg>
       </tuv>
     </tu>
     <tu>
@@ -1811,6 +1883,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174349Z" creationid="brlin" creationdate="20260903T174349Z">
         <seg>詞彙表資料夾：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary Files Folder</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174914Z" creationid="brlin" creationdate="20260903T174914Z">
+        <seg>詞彙表檔案資料夾</seg>
       </tuv>
     </tu>
     <tu>
@@ -2229,6 +2309,14 @@ https://omegat.sourceforge.io/manual-standard/en/chapter.panes.html#panes.editor
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local External Searc&amp;hes...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T175011Z" creationid="brlin" creationdate="20260903T175011Z">
+        <seg>本地外部搜尋設定…(&amp;H)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File &amp;Filters...</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174312Z" creationid="brlin" creationdate="20260903T174312Z">
@@ -2522,6 +2610,14 @@ https://omegat.sourceforge.io/manual-standard/en/chapter.panes.html#panes.editor
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T145757Z" creationid="brlin" creationdate="20260818T145757Z">
         <seg>OmegaT &lt;s0&gt;免費的翻譯記憶工具&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT Project Files</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T175033Z" creationid="brlin" creationdate="20260903T175033Z">
+        <seg>OmegaT 專案檔</seg>
       </tuv>
     </tu>
     <tu>
@@ -2948,6 +3044,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162526Z" creationid="brlin" creationdate="20260901T162526Z">
         <seg>以來源字串取代(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Re&amp;pository Mapping...</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174952Z" creationid="brlin" creationdate="20260903T174952Z">
+        <seg>版控庫映射設定…(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3389,6 +3493,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T155330Z" creationid="brlin" creationdate="20260901T155330Z">
         <seg>來源檔案({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files Folder</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174902Z" creationid="brlin" creationdate="20260903T174902Z">
+        <seg>來源檔案資料夾</seg>
       </tuv>
     </tu>
     <tu>
@@ -3857,6 +3969,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated Files Folder</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174908Z" creationid="brlin" creationdate="20260903T174908Z">
+        <seg>已翻譯檔案資料夾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated file created</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260903T173359Z" creationid="brlin" creationdate="20260903T173346Z">
@@ -3893,6 +4013,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260903T150406Z" creationid="brlin" creationdate="20260901T161459Z">
         <seg>已翻譯的唯一分節數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174920Z" creationid="brlin" creationdate="20260903T174920Z">
+        <seg>翻譯記憶檔案資料夾</seg>
       </tuv>
     </tu>
     <tu>
@@ -3973,6 +4101,14 @@ https://omegat.sourceforge.io/manual-standard/en/chapter.panes.html#panes.editor
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to create a backup file of {0}</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T175043Z" creationid="brlin" creationdate="20260903T175043Z">
+        <seg>無法建立 {0} 的備份檔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to create the translated files due to missing or damaged tags.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260903T145933Z" creationid="brlin" creationdate="20260903T145928Z">
@@ -4017,6 +4153,14 @@ https://omegat.sourceforge.io/manual-standard/en/chapter.panes.html#panes.editor
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153726Z" creationid="brlin" creationdate="20260830T153726Z">
         <seg>無法解析翻譯服務的回應</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to read project file!</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T175049Z" creationid="brlin" creationdate="20260903T175049Z">
+        <seg>無法讀取專案檔！</seg>
       </tuv>
     </tu>
     <tu>
@@ -4304,6 +4448,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Writable Glossary File</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174939Z" creationid="brlin" creationdate="20260903T174939Z">
+        <seg>可寫詞彙檔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Writable glossary file:</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260903T174353Z" creationid="brlin" creationdate="20260903T174353Z">
@@ -4366,6 +4518,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T150306Z" creationid="brlin" creationdate="20260901T150306Z">
         <seg>您的專案似乎不包含可翻譯的檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ZIP files</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T175026Z" creationid="brlin" creationdate="20260903T175026Z">
+        <seg>ZIP 檔案</seg>
       </tuv>
     </tu>
     <tu>
