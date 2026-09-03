@@ -28,7 +28,6 @@ regular expression	正則表示式
 Editor	編輯器
 pane	窗格
 Whitespace	空白字元	包括各種顯示為「空白」的字元，比如空格、tab(\t)、不換行空格（nbsp），等等。
-tokenizer	分詞器
 fuzzy	模糊
 OmegaT	OmegaT
 library	函式庫
@@ -70,10 +69,8 @@ Miscellanea	雜記
 bold	粗體	作為動詞則為「加粗」。統一使用「粗體」而非「黑體」
 validator	驗證器	統一使用，避免使用 校驗器 檢驗器 等。
 Open XML	Open XML	指 Microsoft Office2013開始的 Open XML 格式（.docx等），專有名詞，維持原樣。
-Segmentation	分割	建議統一
 translation memory	翻譯記憶
 Delimitation	界定	發現有這種譯法……先新增上吧。
-segmentation	分割
 Microsoft	Microsoft	MS官方網站中各處都是使用原文而不用微軟，與其維持一致。
 TransTips	翻譯提示
 alternative translation	多重譯文
@@ -93,10 +90,15 @@ bidi control character	雙向控制符	即 bidirectional control character
 Directional Formatting Character	定向格式符	unicode中涉及到格式和控制的 xx character 一般翻譯成 xx-符
 Block	區塊	僅指 unicode block
 user script	使用者腳本
-team project	協作專案
 source text	來源字串	text 採 string 之翻譯
-segment	區段
 file filter	檔案過濾器
 match	配對
 History Completion	基於翻譯歷史的譯文自動完成
 History Prediction	基於翻譯歷史的譯文自動預測
+tokenizer	分詞元器
+Segmentation	分節	建議統一
+segmentation	分節
+team project	團隊專案
+segment	分節
+source file	來源檔案
+target file	目標檔案
