@@ -1,6 +1,4 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
-History Completion	歷史完成
-History Prediction	歷史預測
 term	詞彙	詞彙表中的條目
 Glossary	詞彙表
 shortcut	縮略詞	在autotext功能中出現，可以輸入縮略詞，自動補全單詞。比如輸入ad.補全為advertisement
@@ -100,3 +98,5 @@ source text	來源字串	text 採 string 之翻譯
 segment	區段
 file filter	檔案過濾器
 match	配對
+History Completion	基於翻譯歷史的譯文自動完成
+History Prediction	基於翻譯歷史的譯文自動預測
