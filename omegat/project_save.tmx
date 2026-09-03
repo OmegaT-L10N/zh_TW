@@ -1134,6 +1134,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project due to a file access issue.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T144009Z" creationid="brlin" creationdate="20260903T144009Z">
+        <seg>因檔案存取問題專案載入失敗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load the specified project!</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T143952Z" creationid="brlin" creationdate="20260903T143952Z">
+        <seg>無法載入指定專案！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load translation memory {0} for the project!</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260903T143803Z" creationid="brlin" creationdate="20260903T143803Z">
