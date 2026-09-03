@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Enable history completion</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T142909Z" creationid="brlin" creationdate="20260903T141204Z">
+        <seg>啟動基於翻譯歷史的譯文自動完成(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Exported TMs</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162019Z" creationid="brlin" creationdate="20260901T162019Z">
@@ -1054,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable history &amp;prediction</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T142819Z" creationid="brlin" creationdate="20260903T141444Z">
+        <seg>啟動基於翻譯歷史的譯文自動預測(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Encoding</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T160917Z" creationid="brlin" creationdate="20260901T160917Z">
@@ -1114,6 +1130,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162256Z" creationid="brlin" creationdate="20260901T162256Z">
         <seg>無法下載頁面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load translation memory {0} for the project!</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T143803Z" creationid="brlin" creationdate="20260903T143803Z">
+        <seg>無法載入專案的 {0} 翻譯記憶！</seg>
       </tuv>
     </tu>
     <tu>
@@ -1234,6 +1258,14 @@
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T143904Z" creationid="brlin" creationdate="20260818T143904Z">
         <seg>Hiroshi Miura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T143119Z" creationid="brlin" creationdate="20260903T143119Z">
+        <seg>翻譯歷史</seg>
       </tuv>
     </tu>
     <tu>
@@ -1787,6 +1819,14 @@ https://omegat.sourceforge.io/manual-standard/en/chapter.panes.html#panes.editor
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT needs to reload the project to take the modifications into account.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T143555Z" creationid="brlin" creationdate="20260903T143555Z">
+        <seg>OmegaT 需要重新載入專案以套用設定變更。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT ran out of memory and will close when you click OK.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260819T144431Z" creationid="brlin" creationdate="20260819T144431Z">
@@ -2049,6 +2089,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T162526Z" creationid="brlin" creationdate="20260901T162526Z">
         <seg>以來源字串取代(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reload the project now?</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T143607Z" creationid="brlin" creationdate="20260903T143607Z">
+        <seg>現在要重新載入專案嗎？</seg>
       </tuv>
     </tu>
     <tu>
@@ -2317,6 +2365,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipped source file {0} because it could not be loaded.</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T143725Z" creationid="brlin" creationdate="20260903T143725Z">
+        <seg>跳過無法載入的 {0} 來源檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>So&amp;urce Files...</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260901T161917Z" creationid="brlin" creationdate="20260901T161917Z">
@@ -2394,6 +2450,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260818T151053Z" creationid="brlin" creationdate="20260818T151053Z">
         <seg>右至左(RTL)語言支援</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch views with {0} and {1}</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T140131Z" creationid="brlin" creationdate="20260903T140131Z">
+        <seg>使用 {0} 與 {1} 切換檢視</seg>
       </tuv>
     </tu>
     <tu>
@@ -2618,6 +2682,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-TW" changeid="brlin" changedate="20260830T153919Z" creationid="brlin" creationdate="20260830T153919Z">
         <seg>推薦或預設的路徑如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Theme:</seg>
+      </tuv>
+      <tuv lang="zh-TW" changeid="brlin" changedate="20260903T143526Z" creationid="brlin" creationdate="20260903T143401Z">
+        <seg>佈景主題：</seg>
       </tuv>
     </tu>
     <tu>
